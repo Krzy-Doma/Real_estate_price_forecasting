@@ -6,6 +6,7 @@ import random
 
 from tabulate import tabulate
 
+#! possible options: 1 - test with smaller output, 0 - normal output
 TEST = 1
 
 def estate_info(link):  
