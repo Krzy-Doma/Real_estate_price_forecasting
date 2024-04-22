@@ -6,8 +6,10 @@ import random
 
 from tabulate import tabulate
 
-#! possible options: 1 - test with smaller output, 0 - normal output
-TEST = 1
+#! possible options: True - test with smaller output, False - normal output
+TEST = True
+
+SLEEP_TIME = random.uniform(1, 2)
 
 def estate_info(link):  
     time.sleep(SLEEP_TIME) # To avoid being blocked by the server
@@ -36,6 +38,7 @@ def estate_info(link):
             price_digits = ''.join(filter(str.isdigit, price))
             price = int(price_digits)
         else:
+            print('|----DELETED----|')
             return None  # Skip the record if price is 'Zapytaj o cenę'
     except (AttributeError, ValueError):
         price = None
@@ -63,8 +66,6 @@ def estate_info(link):
     return record
 
 
-SLEEP_TIME = random.uniform(1, 2)
-
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
 }
@@ -79,9 +80,9 @@ total_pages = int(soup.select_one('ul.css-1vdlgt7 li.css-1tospdx:nth-last-of-typ
 
 data = []
 
-for page in range(total_pages):
+for page in range(1, total_pages):
     
-    URL = "https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&ownerTypeSingleSelect=ALL&locations=%5Bpomorskie%2Fgdansk%2Fgdansk%2Fgdansk%2Cpomorskie%2Fsopot%2Fsopot%2Fsopot%2Cpomorskie%2Fgdynia%2Fgdynia%2Fgdynia%5D&by=BEST_MATCH&direction=DESC&viewType=listing&page={page}"
+    URL = f"https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&ownerTypeSingleSelect=ALL&locations=%5Bpomorskie%2Fgdansk%2Fgdansk%2Fgdansk%2Cpomorskie%2Fsopot%2Fsopot%2Fsopot%2Cpomorskie%2Fgdynia%2Fgdynia%2Fgdynia%5D&by=BEST_MATCH&direction=DESC&viewType=listing&page={page}"
 
     response = requests.get(URL, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -90,7 +91,7 @@ for page in range(total_pages):
     links = soup.select('a.css-16vl3c1.e1x0p3r10')
     links_list = ['https://www.otodom.pl' + link.get('href') for link in links]
     
-    print(f'page {page + 1} of {total_pages}')
+    print(f'page {page} of {total_pages}')
     
     # iterate over  the list of URLs on page
     for index, link in enumerate(links_list):
@@ -103,17 +104,15 @@ for page in range(total_pages):
             data.append(record)
             
         #! TEST    
-        if index == 1 & TEST == 1:
+        if index == 1 and TEST is True:
             break
     
     #! TEST      
-    if page == 1 & TEST == 1:
+    if page >= 2 and TEST is True:
         break
 
-
-print(f'Total pages: {total_pages}')
-    
-print(f'Total number of records: {len(data)}')
 print(tabulate(data, headers=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor"], tablefmt='outline'))
-print(1/2)
+
+print(f'\nTotal pages: {total_pages}')  
+print(f'\nTotal number of records: {len(data)}')
 
