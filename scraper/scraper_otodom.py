@@ -11,6 +11,7 @@ TEST = True
 
 SLEEP_TIME = random.uniform(1, 2)
 
+#! PIWNICA?XD?, CZYNSZ (Chyba XD)
 def estate_info(link):  
     time.sleep(SLEEP_TIME) # To avoid being blocked by the server
     
@@ -60,8 +61,65 @@ def estate_info(link):
         floor = soup1.select_one('div[data-testid="table-value-floor"]').text.strip().split('/')[0]
     except AttributeError:
         floor = None
+        
+    # market either primary of aftermarket
+    try:
+        market = soup1.select_one('div.css-1yvps34.e10umaf20 div.css-1qzszy5.enb64yk2:nth-child(2)').text.strip()
+    except AttributeError:
+        market = None        
     
-    record.extend((title, address, price, area, rooms, floor))
+    # balcony, garde, terrace
+    try:
+        addition = soup1.select_one('div[data-testid="table-value-outdoor"]').text.strip()
+    except AttributeError:
+        addition = None
+        
+    # parking
+    try:
+        parking = soup1.select_one('div[data-testid="table-value-car"]').text.strip()
+    except AttributeError:
+        parking = None
+    
+    # elevator
+    try:
+        elevator = soup1.select_one('div[aria-label="Winda"] > div:nth-of-type(2)').text.strip()
+    except AttributeError:
+        elevator = None
+        
+    #! rent FIX
+    try:
+        rent = None
+    except AttributeError:
+        rent = None
+        
+    # build year
+    try:
+        build_year = soup1.select_one('div[aria-label="Rok budowy"] > div:nth-of-type(2)').text.strip()
+        if build_year == 'brak informacji':
+            build_year = None
+    except AttributeError:
+        build_year = None
+        
+    # internet
+    try:
+        media = soup1.select_one('div[aria-label="Media"] > div:nth-of-type(2)').text.strip()
+        if 'internet' in media:
+            internet = 1
+        else:
+            internet = 0
+    except AttributeError:
+        internet = None
+        
+    # type of development
+    try:
+        buiiding_type = soup1.select_one('div[aria-label="Rodzaj zabudowy"] > div:nth-of-type(2)').text.strip()
+        if buiiding_type == 'brak informacji':
+            buiiding_type = None
+    except AttributeError:
+        buiiding_type = None
+            
+    
+    record.extend((title, address, price, area, rooms, floor, market, addition, parking, elevator, build_year, internet, buiiding_type))
     
     return record
 
@@ -96,7 +154,7 @@ for page in range(1, total_pages):
     # iterate over  the list of URLs on page
     for index, link in enumerate(links_list):
         print(f'|----link {index + 1} of {len(links_list)}')
-        
+        print(link)
         record = []
         record = estate_info(link)
         
@@ -111,7 +169,7 @@ for page in range(1, total_pages):
     if page >= 2 and TEST is True:
         break
 
-print(tabulate(data, headers=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor"], tablefmt='outline'))
+print(tabulate(data, headers=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor", "market", "addition", "parking", "elevator", "build year", "internet", "buiiding_type"], tablefmt='outline'))
 
 print(f'\nTotal pages: {total_pages}')  
 print(f'\nTotal number of records: {len(data)}')
