@@ -95,7 +95,7 @@ for page in range(1, total_pages):
         record = []
         record = estate_info(link)
         
-        if record != None:
+        if record is not None:
                 data.append(record)
 
         #! TEST    

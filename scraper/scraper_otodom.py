@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 
-import time
 import requests
 import random
 
@@ -12,8 +11,16 @@ TEST = False
 
 SLEEP_TIME = random.uniform(1, 2)
 
-def estate_info(link):  
-    #time.sleep(SLEEP_TIME) # To avoid being blocked by the server
+def estate_info(link) -> list:  
+    """_summary_
+
+    Args:
+        link (str): link to a website
+
+    Returns:
+        list: list of items scraped from the website
+    """
+    #time.sleep(SLEEP_TIME)
     
     page = requests.get(link, headers=headers)
     soup1 = BeautifulSoup(page.content, 'html.parser')
@@ -85,12 +92,6 @@ def estate_info(link):
         elevator = soup1.select_one('div[aria-label="Winda"] > div:nth-of-type(2)').text.strip()
     except (AttributeError, Exception):
         elevator = None
-        
-    #! rent FIX
-    try:
-        rent = None
-    except (AttributeError, Exception):
-        rent = None
         
     # build year
     try:
@@ -169,7 +170,7 @@ for page in range(1, total_pages):
         record = []
         record = estate_info(link)
         
-        if record != None:
+        if record is not None:
             data.append(record)
             
         #! TEST    
