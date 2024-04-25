@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 
 from tabulate import tabulate
-import pandas as pd
+#import pandas as pd
 
 #! possible options: True - test with smaller output, False - normal output
 TEST: bool = True
