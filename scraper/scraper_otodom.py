@@ -12,7 +12,7 @@ TEST = False
 SLEEP_TIME = random.uniform(1, 2)
 
 def estate_info(link) -> list:  
-    """_summary_
+    """Takes a link to a website and scrapes the website for information about the estate.
 
     Args:
         link (str): link to a website
@@ -50,7 +50,7 @@ def estate_info(link) -> list:
         address = soup1.select_one('a[href="#map"]').text.strip()
     except (AttributeError, Exception):
         address = None
-    #! FIX ERROR
+    
     # area of estate
     try:
         area = float(soup1.select_one('div[data-testid="table-value-area"]').text.strip().split(' ')[0].replace(',', '.'))
