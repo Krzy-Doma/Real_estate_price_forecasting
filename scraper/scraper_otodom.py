@@ -18,7 +18,7 @@ def estate_info(link) -> list:
         link (str): link to a website
 
     Returns:
-        list: list of items scraped from the website
+        list: list with the information about the estate
     """
     #time.sleep(SLEEP_TIME)
     
