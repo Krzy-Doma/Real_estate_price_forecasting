@@ -8,8 +8,10 @@ import pandas as pd
 
 #! possible options: True - test with smaller output, False - normal output
 TEST = False
-
 SLEEP_TIME = random.uniform(1, 2)
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+}
 
 def estate_info(link) -> list:  
     """Takes a link to a website and scrapes the website for information about the estate.
@@ -22,7 +24,7 @@ def estate_info(link) -> list:
     """
     #time.sleep(SLEEP_TIME)
     
-    page = requests.get(link, headers=headers)
+    page = requests.get(link, headers=HEADERS)
     soup1 = BeautifulSoup(page.content, 'html.parser')
 
     record = []
@@ -134,57 +136,59 @@ def estate_info(link) -> list:
     return record
 
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
-}
 
-BASE_URL = "https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&ownerTypeSingleSelect=ALL&locations=%5Bpomorskie%2Fgdansk%2Fgdansk%2Fgdansk%2Cpomorskie%2Fsopot%2Fsopot%2Fsopot%2Cpomorskie%2Fgdynia%2Fgdynia%2Fgdynia%5D&by=BEST_MATCH&direction=DESC&viewType=listing&page=1"
+def main() -> None:
+    BASE_URL = "https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&ownerTypeSingleSelect=ALL&locations=%5Bpomorskie%2Fgdansk%2Fgdansk%2Fgdansk%2Cpomorskie%2Fsopot%2Fsopot%2Fsopot%2Cpomorskie%2Fgdynia%2Fgdynia%2Fgdynia%5D&by=BEST_MATCH&direction=DESC&viewType=listing&page=1"
 
-response = requests.get(BASE_URL, headers=headers)
-soup = BeautifulSoup(response.content, 'html.parser')
-
-# number of pages
-total_pages = int(soup.select_one('ul.css-1vdlgt7 li.css-1tospdx:nth-last-of-type(2)').text.strip())
-
-data = []
-# header of the data
-header=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor", "market", "addition", "parking", "elevator", "build year", "internet", "buiiding_type", 'basement']
-
-for page in range(1, total_pages):
-    
-    URL = f"https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&ownerTypeSingleSelect=ALL&locations=%5Bpomorskie%2Fgdansk%2Fgdansk%2Fgdansk%2Cpomorskie%2Fsopot%2Fsopot%2Fsopot%2Cpomorskie%2Fgdynia%2Fgdynia%2Fgdynia%5D&by=BEST_MATCH&direction=DESC&viewType=listing&page={page}"
-
-    response = requests.get(URL, headers=headers)
+    response = requests.get(BASE_URL, headers=HEADERS)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # list of URLs on page
-    links = soup.select('a.css-16vl3c1.e1x0p3r10')
-    links_list = ['https://www.otodom.pl' + link.get('href') for link in links]
-    
-    print(f'page {page} of {total_pages}')
-    
-    # iterate over  the list of URLs on page
-    for index, link in enumerate(links_list):
-        print(f'|----link {index + 1} of {len(links_list)}')
+    # number of pages
+    total_pages = int(soup.select_one('ul.css-1vdlgt7 li.css-1tospdx:nth-last-of-type(2)').text.strip())
+
+    data = []
+    # header of the data
+    header=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor", "market", "addition", "parking", "elevator", "build year", "internet", "buiiding_type", 'basement']
+
+    for page in range(1, total_pages):
         
-        record = []
-        record = estate_info(link)
+        URL = f"https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/wiele-lokalizacji?limit=36&ownerTypeSingleSelect=ALL&locations=%5Bpomorskie%2Fgdansk%2Fgdansk%2Fgdansk%2Cpomorskie%2Fsopot%2Fsopot%2Fsopot%2Cpomorskie%2Fgdynia%2Fgdynia%2Fgdynia%5D&by=BEST_MATCH&direction=DESC&viewType=listing&page={page}"
+
+        response = requests.get(URL, headers=HEADERS)
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # list of URLs on page
+        links = soup.select('a.css-16vl3c1.e1x0p3r10')
+        links_list = ['https://www.otodom.pl' + link.get('href') for link in links]
         
-        if record is not None:
-            data.append(record)
+        print(f'page {page} of {total_pages}')
+        
+        # iterate over  the list of URLs on page
+        for index, link in enumerate(links_list):
+            print(f'|----link {index + 1} of {len(links_list)}')
             
-        #! TEST    
-        if index == 1 and TEST is True:
+            record = []
+            record = estate_info(link)
+            
+            if record is not None:
+                data.append(record)
+                
+            #! TEST    
+            if index == 1 and TEST is True:
+                break
+        
+        #! TEST      
+        if page >= 2 and TEST is True:
+            print(tabulate(data, headers=header, tablefmt='outline'))
             break
-    
-    #! TEST      
-    if page >= 2 and TEST is True:
-        print(tabulate(data, headers=header, tablefmt='outline'))
-        break
 
 
-print(f'\nTotal pages: {total_pages}')  
-print(f'\nTotal number of records: {len(data)}')
+    print(f'\nTotal pages: {total_pages}')  
+    print(f'\nTotal number of records: {len(data)}')
 
-data_df = pd.DataFrame(data)
-data_df.to_csv('otodom_data.csv', sep = '|', header = header, index = False)
+    data_df = pd.DataFrame(data)
+    data_df.to_csv('otodom_data.csv', sep = '|', header = header, index = False)
+
+
+if __name__ == '__main__':
+    main()

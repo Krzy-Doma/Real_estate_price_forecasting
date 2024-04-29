@@ -7,8 +7,10 @@ from tabulate import tabulate
 
 #! possible options: True - test with smaller output, False - normal output
 TEST: bool = True
-
 data: list = []
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+}
 
 def estate_info(soup) -> list:
     """Takes a soup object and returns a list with the information about the estate.
@@ -85,41 +87,42 @@ def estate_info(soup) -> list:
     
     return record
 
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-}
 
-BASE_URL = 'https://www.nieruchomosci-online.pl/szukaj.html?3,mieszkanie,sprzedaz,,Gda%C5%84sk'
+def main() -> None:
+    BASE_URL = 'https://www.nieruchomosci-online.pl/szukaj.html?3,mieszkanie,sprzedaz,,Gda%C5%84sk'
 
-response = requests.get(BASE_URL, headers=headers)
-soup = BeautifulSoup(response.content, 'html.parser')
+    response = requests.get(BASE_URL, headers=HEADERS)
+    soup = BeautifulSoup(response.content, 'html.parser')
 
-total_pages: int = int(soup.select_one('ul.pagination-mob-sub li:nth-last-of-type(2)').text.strip())
+    total_pages: int = int(soup.select_one('ul.pagination-mob-sub li:nth-last-of-type(2)').text.strip())
 
-for page in range(1, total_pages):
-    URL = f'https://www.nieruchomosci-online.pl/szukaj.html?3,mieszkanie,sprzedaz,,Gda%C5%84sk&p={page}'
-    
-    response = requests.get(URL, headers=headers)
-    soup = BeautifulSoup(response.content, 'html.parser')   
-    
-    links = soup.select('a.tabCtrl')
-    links_list: list = [link.get('href') for link in links]
-
-    print(f'page {page} of {total_pages}')
-
-    for index, link in enumerate(links_list):
-        print(f'link {index + 1} of {len(links_list)}')
+    for page in range(1, total_pages):
+        URL = f'https://www.nieruchomosci-online.pl/szukaj.html?3,mieszkanie,sprzedaz,,Gda%C5%84sk&p={page}'
         
-        request = requests.get(link, headers=headers)
-        soup = BeautifulSoup(request.content, 'html.parser')
-
-        record = estate_info(soup)
-        data.append(record)
+        response = requests.get(URL, headers=HEADERS)
+        soup = BeautifulSoup(response.content, 'html.parser')   
         
-        if TEST is True and index == 1:
+        links = soup.select('a.tabCtrl')
+        links_list: list = [link.get('href') for link in links]
+
+        print(f'page {page} of {total_pages}')
+
+        for index, link in enumerate(links_list):
+            print(f'link {index + 1} of {len(links_list)}')
+            
+            request = requests.get(link, headers=HEADERS)
+            soup = BeautifulSoup(request.content, 'html.parser')
+
+            record = estate_info(soup)
+            data.append(record)
+            
+            if TEST is True and index == 1:
+                break
+
+        if TEST is True and page == 2:
             break
+        
+    print(tabulate(data))
 
-    if TEST is True and page == 2:
-        break
-    
-print(tabulate(data))
+if __name__ == '__main__':
+    main()

@@ -10,11 +10,14 @@ from tabulate import tabulate
 TEST = True
 
 SLEEP_TIME = random.uniform(1, 2)
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+}
 
 def estate_info(link):  
     time.sleep(SLEEP_TIME) # To avoid being blocked by the server
     
-    page = requests.get(link, headers=headers)
+    page = requests.get(link, headers=HEADERS)
     soup1 = BeautifulSoup(page.content, 'html.parser')
     
     record = []
@@ -61,52 +64,54 @@ def estate_info(link):
     
     return record
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
-}
-
-BASE_URL = "https://gethome.pl/nieruchomosci/gdansk/?price__gte=50000"
-
-response = requests.get(BASE_URL, headers=headers)
-soup = BeautifulSoup(response.content, 'html.parser')
-
-# number of pages
-total_pages = int(soup.select_one('ul.gh-1wjowh8.e134q4pk1 li:nth-last-of-type(1)').text.strip())
-
-data = []
 
 
-for page in range(1, total_pages):
-    
-    URL = f'https://gethome.pl/nieruchomosci/gdansk/?page={page}&price__gte=50000'
-    
-    response = requests.get(URL, headers=headers)
+def main() -> None:
+    BASE_URL = "https://gethome.pl/nieruchomosci/gdansk/?price__gte=50000"
+
+    response = requests.get(BASE_URL, headers=HEADERS)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # list of URLs on page
-    links = soup.select('a.o13k6g1y')
-    links_list = ['https://gethome.pl' + link.get('href') for link in links]
+    # number of pages
+    total_pages = int(soup.select_one('ul.gh-1wjowh8.e134q4pk1 li:nth-last-of-type(1)').text.strip())
 
-    print(f'page {page} of {total_pages}')
-    
-    for index, link in enumerate(links_list):
-        print(f'|----link {index + 1} of {len(links_list)}')
+    data = []
 
-        record = []
-        record = estate_info(link)
+
+    for page in range(1, total_pages):
         
-        if record is not None:
-                data.append(record)
+        URL = f'https://gethome.pl/nieruchomosci/gdansk/?page={page}&price__gte=50000'
+        
+        response = requests.get(URL, headers=HEADERS)
+        soup = BeautifulSoup(response.content, 'html.parser')
 
-        #! TEST    
-        if index == 1 and TEST is True:
+        # list of URLs on page
+        links = soup.select('a.o13k6g1y')
+        links_list = ['https://gethome.pl' + link.get('href') for link in links]
+
+        print(f'page {page} of {total_pages}')
+        
+        for index, link in enumerate(links_list):
+            print(f'|----link {index + 1} of {len(links_list)}')
+
+            record = []
+            record = estate_info(link)
+            
+            if record is not None:
+                    data.append(record)
+
+            #! TEST    
+            if index == 1 and TEST is True:
+                break
+
+        #! TEST      
+        if page >= 2 and TEST is True:
             break
+        
+    print(tabulate(data, headers=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor"], tablefmt='outline'))
 
-    #! TEST      
-    if page >= 2 and TEST is True:
-        break
+    print(f'\nTotal pages: {total_pages}')
+    print(f'\nTotal number of records: {len(data)}')
     
-print(tabulate(data, headers=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor"], tablefmt='outline'))
-
-print(f'\nTotal pages: {total_pages}')
-print(f'\nTotal number of records: {len(data)}')
+if __name__ == "__main__":
+    main()
