@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup
 import requests
 
 from tabulate import tabulate
-#import pandas as pd
+import pandas as pd
 
 #! possible options: True - test with smaller output, False - normal output
-TEST: bool = True
+TEST: bool = False
 data: list = []
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
@@ -122,7 +122,11 @@ def main() -> None:
         if TEST is True and page == 2:
             break
         
-    print(tabulate(data))
+    #print(tabulate(data))
+    header=["title", "address", "price[PLN]", "area[m^2]", "rooms", "floor", "market", "build year", "parking", "building_type"]
+
+    data_df = pd.DataFrame(data)
+    data_df.to_csv('nieruchomosci-online_data.csv', sep = '|', header = header, index = False)
 
 if __name__ == '__main__':
     main()
