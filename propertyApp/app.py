@@ -26,7 +26,7 @@ class App:
         with st.form("property_form"):
             st.header("Property details form")
 
-            district = st.selectbox("District", options=DISTRICTS[self.city])
+            district = st.selectbox("District", options=DISTRICTS[self.city]).lower()
             area = st.number_input("Area [sqm]", value=self.property.area, min_value=0.0, step=0.5)
             number_of_rooms = st.slider("Number of rooms", min_value=1, max_value=10,
                                         value=self.property.number_of_rooms)

@@ -2,7 +2,7 @@ DISTRICTS = {
     'gdynia': [
         "Dąbrowa", "Chwarzno-Wiczlino", "Mały kack", "Chylonia", "Redłowo", "Wielki kack", "Działki leśne", "Wzgórze św. Maksymiliana",
         "Orłowo", "Oksywie", "Witomino", "Grabówek", "Pogórze", "Cisowa", "Leszczynki",
-        "Kamienna góra", "Pustki cisowskie-Demptowo", "Babie doły", "Śródmieście"
+        "Kamienna góra", "Pustki cisowskie-Demptowo", "Babie doły", "Śródmieście", "Obłuże", "Karwiny"
     ],
     'gdansk': [
         "Ujeścisko-Łostowice", "Śródmieście", "Jasień", "Orunia górna - Gdańsk południe", "Przymorze",
