@@ -32,7 +32,7 @@ class App:
                                         value=self.property.number_of_rooms)
             floor = st.radio("Floor", options=['0', '1-3', '4-7', '8+'])
             year_of_creation = st.number_input("Year of creation", value=self.property.year_of_creation, min_value=1900,
-                                               max_value=2023, step=10)
+                                               max_value=2024, step=10)
             type_of_market = st.selectbox("Type of market", ["primary", "secondary"])
             type_of_building = st.selectbox("Type of building", ["Apartment", "House"])
             # Boolean attributes
