@@ -88,6 +88,7 @@ class App:
             "terrace": self.property.terrace,
             "district": self.property.district,
             "city": self.city,
+            "city_district": f"{self.property.city}_{self.property.district}"
         }
 
         try:
