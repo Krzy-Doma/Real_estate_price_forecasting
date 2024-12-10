@@ -29,7 +29,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 31.9|2.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|11143.42|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 56.12|3.0|0|primary|1|0|2024.0|1.0|Apartment|0.0|13096.94|0|1|0|gerarda denhoffa 2|grabówek|gdynia|54.523362|18.51654|gdynia_grabówek
 27.68|1.0|0|primary|1|1|2024.0|1.0|Apartment|0.0|15420.7|1|0|0||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
-47.6|2.0|1-3|secondary|1|0|1964.0|0.0|Apartment|1.0|12584.03|1|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.6|2.0|1-3|secondary|1|0|1964.0|0.0|Apartment|1.0|12584.03|1|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 53.45|3.0|1-3|primary|1|1|2023.0|1.0|Apartment|0.0|9444.53|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 26.36|1.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|13300.08|1|0|0||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
 31.8|2.0|1-3|primary|1|1|2025.0|1.0|Apartment|0.0|11179.25|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
@@ -82,7 +82,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 80.5|4.0|0|secondary|0|1|2012.0|0.0|Apartment|0.0|18633.54|0|0|0|antoniego słonimskiego|wrzeszcz górny|gdansk|54.383986|18.590556|gdansk_wrzeszcz górny
 46.0|3.0|4-7|secondary|0|1|1985.0|1.0|Apartment|1.0|12152.17|1|0|0|swarzewska|chylonia|gdynia|54.537917|18.463613|gdynia_chylonia
 47.57|2.0|1-3|primary|0|1|2026.0|0.0|Apartment|0.0|16200.0|1|0|0|aleja gen. józefa hallera|wrzeszcz dolny|gdansk|54.392372|18.622213|gdansk_wrzeszcz dolny
-36.9|2.0|8+|secondary|0|1|1971.0|0.0|Apartment|0.0|16775.07|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+36.9|2.0|8+|secondary|0|1|1971.0|0.0|Apartment|0.0|16775.07|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 43.0|2.0|1-3|primary|1|1|2023.0|1.0|Apartment|0.0|15325.58|1|0|1|bernarda filarskiego|letnica|gdansk|54.401382|18.651679|gdansk_letnica
 83.0|2.0|1-3|secondary|1|1|2014.0|1.0|Apartment|0.0|23493.98|1|0|0|czarny dwór|przymorze|gdansk|54.407909|18.610113|gdansk_przymorze
 29.68|1.0|0|primary|1|1|2024.0|1.0|Apartment|0.0|15154.14|0|1|1||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
@@ -167,13 +167,13 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 48.0|3.0|4-7|secondary|1|0|1900.0|0.0|Apartment|1.0|12895.83|0|0|0|aleja grunwaldzka|wrzeszcz górny|gdansk|54.392494|18.583594|gdansk_wrzeszcz górny
 65.0|3.0|1-3|secondary|1|1|2018.0|1.0|Apartment|0.0|21476.92|1|0|0|sadowa|śródmieście|gdansk|54.344251|18.669081|gdansk_śródmieście
 73.0|3.0|1-3|secondary|1|1|2012.0|0.0|Apartment|1.0|25342.47|1|0|0|al. niepodległości|górny sopot|sopot|54.442402|18.559893|sopot_górny sopot
-32.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|17781.25|0|0|0|jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+32.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|17781.25|0|0|0|jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 36.0|2.0|0|secondary|0|0|1970.0|1.0|Apartment|1.0|12777.78|0|0|0|raduńska|orunia-św. wojciech-lipce|gdansk|54.323903|18.632939|gdansk_orunia-św. wojciech-lipce
 58.5|3.0|0|secondary|1|1|2009.0|1.0|Apartment|0.0|19658.12|1|0|0|huzarska 1b|redłowo|gdynia|54.489278|18.556569|gdynia_redłowo
 49.5|2.0|0|secondary|1|1|2006.0|0.0|Apartment|0.0|19979.8|0|0|0|śląska|przymorze|gdansk|54.406536|18.579977|gdansk_przymorze
 25.88|1.0|0|secondary|1|1|2022.0|1.0|Apartment|0.0|15889.99|0|0|0|śląska 12|przymorze|gdansk|54.406171|18.576846|gdansk_przymorze
 55.85|3.0|4-7|primary|1|1|2024.0|1.0|Apartment|0.0|8605.1|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
-31.0|2.0|4-7|secondary|0|1|1980.0|1.0|Apartment|1.0|16419.35|1|0|0|gdyńska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421443|18.576966|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|2.0|4-7|secondary|0|1|1980.0|1.0|Apartment|1.0|16419.35|1|0|0|gdyńska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421443|18.576966|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 26.2|2.0|4-7|secondary|1|0|1965.0|1.0|Apartment|1.0|11832.06|0|0|0|ludwika zamenhofa|chylonia|gdynia|52.248571|20.995687|gdynia_chylonia
 75.93|4.0|1-3|secondary|0|0|1993.0|1.0|Apartment|1.0|9548.27|1|0|0|damroki|jasień|gdansk|54.341704|18.566283|gdansk_jasień
 66.0|3.0|1-3|secondary|1|1|2017.0|0.0|Apartment|1.0|22712.12|1|0|0|bernadowska|orłowo|gdynia|54.475629|18.552093|gdynia_orłowo
@@ -510,7 +510,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 95.35|2.0|1-3|secondary|1|1|2022.0|1.0|Apartment|0.0|24646.04|1|0|0|wrocławska|orłowo|gdynia|54.475629|18.552093|gdynia_orłowo
 73.2|2.0|1-3|secondary|1|1|2012.0|1.0|Apartment|0.0|15710.38|1|0|0|strzelców|mały kack|gdynia|54.475281|18.504812|gdynia_mały kack
 40.0|2.0|1-3|secondary|1|1|2013.0|1.0|Apartment|0.0|12975.0|1|0|0||jasień|gdansk|54.340089|18.560014|gdansk_jasień
-22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 65.33|3.0|4-7|secondary|1|1|2012.0|1.0|Apartment|0.0|19577.53|0|0|1|pl. kaszubski|śródmieście|gdynia|54.522774|18.543175|gdynia_śródmieście
 100.16|3.0|1-3|secondary|1|0|2000.0|0.0|Apartment|0.0|22953.27|1|0|0|mariacka|kamienna góra|gdynia|54.511273|18.545483|gdynia_kamienna góra
 69.76|3.0|1-3|secondary|1|1|2015.0|0.0|Apartment|0.0|11740.25|1|0|0|leszczynowa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
@@ -611,7 +611,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 96.0|4.0|1-3|secondary|1|1|2018.0|0.0|Apartment|1.0|15625.0|1|0|0|morenowe wzgórze|piecki-migowo|gdansk|54.349419|18.565512|gdansk_piecki-migowo
 59.64|3.0|0|primary|0|0|2024.0|0.0|Apartment|0.0|13931.99|0|0|0|wspólna|olszynka|gdansk|54.336058|18.668852|gdansk_olszynka
 87.0|3.0|1-3|secondary|0|0|1940.0|0.0|Apartment|0.0|10678.16|1|0|0|zaroślak|śródmieście|gdansk|54.342715|18.642434|gdansk_śródmieście
-30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 89.0|4.0|1-3|secondary|1|1|2023.0|1.0|Apartment|0.0|10393.26|1|0|0|ptasia|chełm|gdansk|54.332499|18.621618|gdansk_chełm
 52.26|2.0|1-3|secondary|0|0|2019.0|0.0|Apartment|0.0|20455.42|1|0|0|kamienna grobla|śródmieście|gdansk|54.342992|18.658266|gdansk_śródmieście
 38.9|1.0|1-3|secondary|1|0|2013.0|0.0|Apartment|0.0|18637.53|1|0|0|tandeta|śródmieście|gdansk|54.351262|18.65549|gdansk_śródmieście
@@ -720,7 +720,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 71.7|4.0|1-3|secondary|0|0|1989.0|1.0|Apartment|1.0|11143.65|1|0|0|prof. józefa więckowskiego|chełm|gdansk|54.333487|18.613844|gdansk_chełm
 65.61|3.0|4-7|secondary|0|1|2022.0|0.0|Apartment|0.0|24234.11|0|0|0|angielska grobla|śródmieście|gdansk|54.350635|18.664603|gdansk_śródmieście
 46.01|2.0|1-3|secondary|1|1|2012.0|1.0|Apartment|0.0|14127.36|1|0|0|nike|osowa|gdansk|54.430298|18.470018|gdansk_osowa
-58.0|2.0|1-3|secondary|1|1|2009.0|0.0|Apartment|0.0|29310.33|0|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+58.0|2.0|1-3|secondary|1|1|2009.0|0.0|Apartment|0.0|29310.33|0|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 47.44|2.0|4-7|primary|1|1|2022.0|1.0|Apartment|0.0|15000.0|0|0|0||letnica|gdansk|54.337888|18.671963|gdansk_letnica
 57.7|3.0|4-7|secondary|1|1|2009.0|0.0|Apartment|1.0|19064.12|0|0|0|kaczyńskiego lecha|przymorze|gdansk|54.354195|18.650385|gdansk_przymorze
 58.33|3.0|0|secondary|1|1|2021.0|1.0|Apartment|0.0|13715.07|0|1|0|opata hackiego|chylonia|gdynia|54.541477|18.463162|gdynia_chylonia
@@ -813,7 +813,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 43.92|2.0|1-3|secondary|1|0|2018.0|0.0|Apartment|1.0|25045.54|1|0|0|joachima lelewela|wrzeszcz dolny|gdansk|54.383786|18.610604|gdansk_wrzeszcz dolny
 70.25|3.0|1-3|secondary|1|0|1930.0|1.0|Apartment|1.0|15160.14|0|0|0|al. grunwaldzka 492|oliwa|gdansk|54.407476|18.568982|gdansk_oliwa
 48.3|2.0|1-3|secondary|1|0|1981.0|0.0|Apartment|0.0|17805.38|1|0|0||wrzeszcz górny|gdansk|54.347591|18.641477|gdansk_wrzeszcz górny
-77.0|4.0|4-7|secondary|1|1|2010.0|1.0|Apartment|1.0|22000.0|1|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+77.0|4.0|4-7|secondary|1|1|2010.0|1.0|Apartment|1.0|22000.0|1|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 77.0|4.0|4-7|secondary|1|1|2010.0|1.0|Apartment|0.0|22000.0|1|0|0|chłopska|przymorze|gdansk|54.354195|18.650385|gdansk_przymorze
 64.13|3.0|1-3|primary|0|1|2023.0|0.0|Apartment|0.0|22439.79|1|0|0|jana bażyńskiego|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
 31.91|2.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|13060.17|1|0|0||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
@@ -881,7 +881,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 30.0|1.0|1-3|secondary|1|1|2023.0|1.0|Apartment|0.0|12666.67|1|0|0|czereśniowa|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 53.5|2.0|1-3|secondary|1|1|2015.0|0.0|Apartment|0.0|11495.33|1|0|0|potęgowska|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 63.0|3.0|4-7|secondary|1|1|2020.0|0.0|Apartment|1.0|23000.0|1|0|1|węglowa|śródmieście|gdynia|54.5198415|18.538188|gdynia_śródmieście
-63.7|3.0|4-7|secondary|0|1|2011.0|1.0|Apartment|0.0|18037.68|1|0|0|chłopska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+63.7|3.0|4-7|secondary|0|1|2011.0|1.0|Apartment|0.0|18037.68|1|0|0|chłopska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 75.22|4.0|1-3|secondary|0|1|2024.0|1.0|Apartment|0.0|10700.0|1|0|0|starowiejska|letnica|gdansk|54.394982|18.646767|gdansk_letnica
 49.6|2.0|0|secondary|0|0|1960.0|0.0|Apartment|1.0|9475.81|1|0|0|władysława iv|nowy port|gdansk|54.401528|18.66328|gdansk_nowy port
 34.0|2.0|0|secondary|0|0|1930.0|1.0|Apartment|1.0|16176.47|0|1|0|józefa kraszewskiego|kamienny potok|sopot|54.45407|18.550078|sopot_kamienny potok
@@ -938,7 +938,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 45.0|2.0|4-7|secondary|0|0|1970.0|0.0|Apartment|0.0|14444.44|0|0|0|prezydenta lecha kaczyńskiego|przymorze|gdansk|54.410915|18.600982|gdansk_przymorze
 72.09|3.0|4-7|secondary|1|1|2022.0|1.0|Apartment|0.0|30000.0|1|0|1|prezydenta lecha kaczyńskiego|przymorze|gdansk|54.410915|18.600982|gdansk_przymorze
 40.88|2.0|4-7|secondary|1|1|2018.0|0.0|Apartment|0.0|20670.25|1|0|0|obrońców wybrzeża|przymorze|gdansk|54.41007|18.596302|gdansk_przymorze
-62.9|3.0|8+|secondary|0|1|1970.0|0.0|Apartment|1.0|17488.08|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+62.9|3.0|8+|secondary|0|1|1970.0|0.0|Apartment|1.0|17488.08|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 38.0|2.0|1-3|secondary|0|0|1975.0|0.0|Apartment|1.0|16315.79|0|0|0|jagiellońska|przymorze|gdansk|54.354195|18.650385|gdansk_przymorze
 77.0|4.0|4-7|secondary|1|1|2010.0|0.0|Apartment|0.0|22000.0|1|0|0|chłopska|przymorze|gdansk|54.354195|18.650385|gdansk_przymorze
 55.6|3.0|0|secondary|1|1|2023.0|0.0|Apartment|0.0|13706.83|0|1|1|życzliwa 12|jasień|gdansk|54.34421|18.530231|gdansk_jasień
@@ -1049,7 +1049,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 66.0|3.0|1-3|secondary|0|0|1979.0|0.0|Apartment|1.0|11803.03|1|0|0|szara|siedlce|gdansk|54.348516|18.611804|gdansk_siedlce
 42.0|2.0|1-3|secondary|0|1|2020.0|1.0|Apartment|0.0|14000.0|1|0|0|jasień bulwary|orunia-św. wojciech-lipce|gdansk|54.285717|17.627607|gdansk_orunia-św. wojciech-lipce
 92.84|3.0|0|secondary|1|1|2013.0|0.0|Apartment|1.0|14218.01|0|1|0|strzelców|mały kack|gdynia|54.475281|18.504812|gdynia_mały kack
-31.0|1.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|15774.19|0|0|0|subisława|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|1.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|15774.19|0|0|0|subisława|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 42.0|2.0|1-3|secondary|1|0|1970.0|0.0|Apartment|1.0|15928.57|0|0|0|bohaterów starówki warszawskiej|redłowo|gdynia|54.495287|18.547208|gdynia_redłowo
 63.7|3.0|4-7|secondary|0|0|1990.0|0.0|Apartment|1.0|9403.45|1|0|0|kolendrowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
 60.12|3.0|1-3|secondary|0|1|2018.0|0.0|Apartment|0.0|20000.0|1|0|0|św. barbary|śródmieście|gdansk|54.349398|18.663182|gdansk_śródmieście
@@ -1100,12 +1100,12 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 71.6|3.0|8+|secondary|1|1|2015.0|1.0|Apartment|0.0|20251.4|0|0|0|olsztyńska|przymorze|gdansk|54.404567|18.6047|gdansk_przymorze
 50.0|2.0|1-3|secondary|1|1|2017.0|1.0|Apartment|1.0|24000.0|1|0|0|lęborska 22|przymorze|gdansk|54.404943|18.582046|gdansk_przymorze
 55.73|3.0|0|secondary|0|0|1986.0|0.0|Apartment|1.0|12542.62|1|1|1|janiny porazińskiej|karwiny|gdynia|54.472093|18.496298|gdynia_karwiny
-30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 30.0|1.0|1-3|secondary|1|1|2023.0|1.0|Apartment|0.0|12666.67|1|0|0|czereśniowa|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 74.9|3.0|1-3|secondary|1|0|2003.0|1.0|Apartment|1.0|15153.54|1|0|0|waleriana szefki|wielki kack|gdynia|54.465869|18.486889|gdynia_wielki kack
 48.01|2.0|1-3|secondary|1|1|2012.0|1.0|Apartment|1.0|28952.3|1|0|1|nadmorski dwór|brzeźno|gdansk|54.410838|18.630162|gdansk_brzeźno
 58.09|3.0|1-3|primary|1|1|2024.0|0.0|Apartment|0.0|10156.65|1|0|0|pastelowa|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
-31.6|2.0|4-7|secondary|0|0|1964.0|0.0|Apartment|1.0|15791.14|0|0|0|piastowska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.418098|18.59032|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.6|2.0|4-7|secondary|0|0|1964.0|0.0|Apartment|1.0|15791.14|0|0|0|piastowska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.418098|18.59032|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 59.82|3.0|0|secondary|1|1|2018.0|0.0|Apartment|1.0|12537.61|0|1|1|lawendowe wzgórze|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 64.13|3.0|1-3|primary|1|1|2024.0|1.0|Apartment|1.0|22439.79|1|0|1||oliwa|gdansk|54.4102295|18.57157|gdansk_oliwa
 59.2|3.0|1-3|secondary|1|0|2005.0|0.0|Apartment|1.0|10962.84|1|0|0|kazimierza porębskiego|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
@@ -1126,7 +1126,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 70.22|3.0|0|secondary|1|0|1920.0|0.0|Apartment|1.0|13813.73|0|0|0|jana husa|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
 45.0|2.0|1-3|secondary|0|0|1956.0|0.0|Apartment|0.0|14422.22|0|0|0|pańska|śródmieście|gdansk|54.352346|18.651306|gdansk_śródmieście
 49.86|3.0|4-7|primary|1|1|2024.0|1.0|Apartment|1.0|14400.32|1|0|1||letnica|gdansk|54.337888|18.671963|gdansk_letnica
-42.5|2.0|1-3|secondary|0|0|1964.0|1.0|Apartment|1.0|16235.29|0|0|0|tysiąclecia|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.418098|18.59032|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+42.5|2.0|1-3|secondary|0|0|1964.0|1.0|Apartment|1.0|16235.29|0|0|0|tysiąclecia|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.418098|18.59032|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 66.1|3.0|1-3|secondary|0|0|1890.0|1.0|Apartment|1.0|15113.46|0|0|0|gen. władysława andersa|osiedle mickiewicza|sopot|54.440668|18.55594|sopot_osiedle mickiewicza
 30.0|2.0|1-3|secondary|1|0|2014.0|1.0|Apartment|1.0|12533.33|1|0|0|kazimierza leskiego|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 58.0|2.0|4-7|secondary|1|1|2018.0|1.0|Apartment|0.0|28448.28|1|0|1|rajska|śródmieście|gdansk|54.35588|18.64708|gdansk_śródmieście
@@ -1139,7 +1139,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 45.0|2.0|1-3|secondary|0|0|1950.0|0.0|Apartment|0.0|18555.56|0|0|0|szeroka|śródmieście|gdansk|54.351277|18.653681|gdansk_śródmieście
 35.8|2.0|1-3|secondary|0|0|1967.0|0.0|Apartment|1.0|16173.18|1|0|0|stefana batorego|wrzeszcz górny|gdansk|54.377177|18.600532|gdansk_wrzeszcz górny
 41.0|2.0|1-3|secondary|1|1|2024.0|1.0|Apartment|0.0|15121.95|1|0|0|czereśniowa|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-47.3|3.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|14693.45|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.3|3.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|14693.45|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 44.0|2.0|4-7|secondary|1|1|2016.0|0.0|Apartment|0.0|13750.0|1|0|0|koziorożca|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 90.5|4.0|1-3|secondary|0|0|1930.0|0.0|Apartment|0.0|9602.21|0|0|0|al. aleja legionów|wrzeszcz dolny|gdansk|54.386133|18.61179|gdansk_wrzeszcz dolny
 47.0|2.0|0|primary|0|1|2022.0|1.0|Apartment|0.0|14787.23|0|1|1|wolności|działki leśne|gdynia|54.51903|18.521879|gdynia_działki leśne
@@ -1237,7 +1237,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 32.6|1.0|1-3|secondary|1|1|1982.0|1.0|Apartment|1.0|14662.58|1|0|0|antoniego abrahama|vii dwór|gdansk|54.387438|18.574708|gdansk_vii dwór
 40.58|2.0|1-3|secondary|0|1|2015.0|0.0|Apartment|0.0|13528.83|0|0|0|marsa|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 72.8|3.0|0|secondary|1|0|2006.0|0.0|Apartment|0.0|12348.9|1|0|1||piecki-migowo|gdansk|54.351931|18.575399500000003|gdansk_piecki-migowo
-66.7|4.0|4-7|secondary|1|1|1975.0|0.0|Apartment|1.0|12398.8|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|4.0|4-7|secondary|1|1|1975.0|0.0|Apartment|1.0|12398.8|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 38.2|2.0|4-7|secondary|0|1|1974.0|0.0|Apartment|1.0|10968.59|1|0|0|morska|chylonia|gdynia|54.541477|18.463162|gdynia_chylonia
 42.4|2.0|1-3|secondary|1|1|2023.0|0.0|Apartment|0.0|15141.51|1|0|0|niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 37.0|2.0|0|secondary|0|1|1975.0|1.0|Apartment|1.0|17162.16|1|1|0|wejherowska|kamienny potok|sopot|54.455381|18.553889|sopot_kamienny potok
@@ -1252,7 +1252,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 48.56|3.0|1-3|secondary|0|1|1980.0|0.0|Apartment|1.0|11099.67|1|0|0|morska|chylonia|gdynia|54.541477|18.463162|gdynia_chylonia
 54.5|3.0|1-3|secondary|1|1|2017.0|1.0|Apartment|1.0|12477.06|1|0|1|stanisława filipkowskiego|chwarzno-wiczlino|gdynia|54.485423|18.427343|gdynia_chwarzno-wiczlino
 52.2|3.0|4-7|secondary|0|1|1980.0|0.0|Apartment|1.0|15306.51|1|0|0|karpacka|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
-23.45|1.0|1-3|secondary|0|0|1980.0|1.0|Apartment|1.0|22174.84|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.422439|18.580986|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+23.45|1.0|1-3|secondary|0|0|1980.0|1.0|Apartment|1.0|22174.84|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.422439|18.580986|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 42.1|2.0|4-7|secondary|1|1|2015.0|0.0|Apartment|0.0|16365.8|1|0|0|myśliwskie wzgórze|piecki-migowo|gdansk|54.348106|18.562501|gdansk_piecki-migowo
 47.0|3.0|8+|secondary|0|1|1970.0|1.0|Apartment|1.0|12744.68|1|0|0|bobrowa|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
 46.0|2.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|14978.26|1|0|0|piastowska|przymorze|gdansk|54.354195|18.650385|gdansk_przymorze
@@ -1319,12 +1319,12 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 44.32|2.0|1-3|secondary|0|1|1968.0|1.0|Apartment|1.0|13535.65|1|0|0|władysława iv|śródmieście|gdynia|54.51567|18.538271|gdynia_śródmieście
 42.0|2.0|1-3|primary|1|0|2025.0|0.0|Apartment|0.0|14065.5|1|0|0|remusa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 60.35|4.0|1-3|primary|1|1|2023.0|1.0|Apartment|0.0|9312.71|1|0|0||ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-38.0|3.0|1-3|secondary|0|1|1970.0|1.0|Apartment|1.0|15394.74|1|0|0|piastowska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.418098|18.59032|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+38.0|3.0|1-3|secondary|0|1|1970.0|1.0|Apartment|1.0|15394.74|1|0|0|piastowska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.418098|18.59032|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 40.4|2.0|0|secondary|1|1|1970.0|0.0|Apartment|1.0|14331.68|0|0|0|al. grunwaldzka|oliwa|gdansk|54.392494|18.583594|gdansk_oliwa
 57.93|3.0|4-7|secondary|1|1|2017.0|1.0|Apartment|0.0|22000.0|1|0|0|maurycego beniowskiego|przymorze|gdansk|54.410828|18.577127|gdansk_przymorze
 33.57|2.0|4-7|primary|1|1|2024.0|1.0|Apartment|0.0|12257.07|1|0|0|głęboka|śródmieście|gdansk|54.35128|18.673742|gdansk_śródmieście
 59.23|4.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|9200.49|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
-30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 53.32|3.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|9524.47|1|0|0|starogardzka|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 40.15|2.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|10074.17|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 39.36|2.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|10406.38|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
@@ -1333,7 +1333,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 93.42|4.0|0|primary|1|1|2023.0|1.0|Apartment|1.0|14707.77|0|1|1|stanisława wąsowicza|grabówek|gdynia|54.527095|18.504089|gdynia_grabówek
 49.6|2.0|0|secondary|0|1|2011.0|0.0|Apartment|0.0|24798.39|1|1|1||redłowo|gdynia|54.489685|18.566723|gdynia_redłowo
 48.42|3.0|4-7|secondary|1|1|2021.0|1.0|Apartment|0.0|21891.78|1|0|0|jana i macieja kilarskich|oliwa|gdansk|54.415786|18.563126|gdansk_oliwa
-30.9|1.0|4-7|secondary|1|1|1974.0|1.0|Apartment|1.0|16472.49|0|0|0|gdyńska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421443|18.576966|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|1|1|1974.0|1.0|Apartment|1.0|16472.49|0|0|0|gdyńska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421443|18.576966|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 51.03|3.0|1-3|secondary|1|1|2019.0|1.0|Apartment|1.0|11738.19|1|0|0|alfonsa flisykowskiego|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 79.3|4.0|0|secondary|1|0|1998.0|1.0|Apartment|1.0|10706.18|1|0|1|elewów|matarnia|gdansk|54.372639|18.517912|gdansk_matarnia
 48.0|2.0|1-3|secondary|1|1|2018.0|0.0|Apartment|1.0|10937.5|1|0|0|kazimierza wielkiego|orunia górna - gdańsk południe|gdansk|54.323903|18.632939|gdansk_orunia górna - gdańsk południe
@@ -1356,7 +1356,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 27.68|1.0|0|primary|1|1|2024.0|1.0|Apartment|0.0|15420.7|1|0|0||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
 33.1|2.0|1-3|secondary|0|0|1950.0|1.0|Apartment|1.0|13293.05|0|0|0|elizy orzeszkowej 11|wzgórze św. maksymiliana|gdynia|54.504924|18.540792|gdynia_wzgórze św. maksymiliana
 40.0|2.0|1-3|secondary|1|1|2024.0|1.0|Apartment|0.0|15500.0|1|0|0|aleksandra dulin'a|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-68.3|4.0|4-7|secondary|1|1|1975.0|1.0|Apartment|1.0|12108.35|0|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+68.3|4.0|4-7|secondary|1|1|1975.0|1.0|Apartment|1.0|12108.35|0|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 60.71|4.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|9283.68|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 74.0|3.0|0|secondary|0|1|2013.0|1.0|Apartment|0.0|27013.51|0|0|1|władysława łokietka|karlikowo|sopot|54.433407|18.579679|sopot_karlikowo
 51.77|3.0|1-3|primary|1|0|2024.0|1.0|Apartment|0.0|13502.03|1|0|0||wyspa sobieszewska|gdansk|54.344034|18.827022|gdansk_wyspa sobieszewska
@@ -1381,7 +1381,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 66.74|3.0|4-7|secondary|1|1|2019.0|0.0|Apartment|0.0|14968.53|1|0|1|letnicka|letnica|gdansk|54.40164|18.647512|gdansk_letnica
 73.8|3.0|1-3|secondary|1|1|2013.0|1.0|Apartment|0.0|20596.21|1|0|0|osiedle nad kępą|redłowo|gdynia|54.5468|18.54753|gdynia_redłowo
 71.25|3.0|4-7|secondary|1|0|2016.0|0.0|Apartment|0.0|21740.35|1|0|0|cypriana kamila norwida|wrzeszcz górny|gdansk|54.383663|18.592034|gdansk_wrzeszcz górny
-191.2|5.0|0|secondary|1|0|1972.0|1.0|House|0.0|25627.62|0|1|1||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+191.2|5.0|0|secondary|1|0|1972.0|1.0|House|0.0|25627.62|0|1|1||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 118.7|5.0|1-3|secondary|1|0|2004.0|0.0|Apartment|0.0|12552.65|1|0|0|waleriana szefki|wielki kack|gdynia|54.465869|18.486889|gdynia_wielki kack
 86.91|4.0|1-3|secondary|1|0|2015.0|0.0|Apartment|1.0|12645.27|1|0|0||chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
 56.12|3.0|4-7|secondary|0|1|1979.0|1.0|Apartment|1.0|10602.28|1|0|0|macieja kamieńskiego|suchanino|gdansk|54.354437|18.611|gdansk_suchanino
@@ -1501,7 +1501,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 43.68|2.0|4-7|secondary|1|0|2024.0|0.0|Apartment|0.0|22413.0|1|0|0|czarny dwór|przymorze|gdansk|54.407909|18.610113|gdansk_przymorze
 30.8|2.0|1-3|secondary|0|0|1914.0|1.0|Apartment|1.0|11331.17|0|0|0|chwaszczyńska|młyniska|gdansk|54.376297|18.633086|gdansk_młyniska
 57.31|3.0|0|primary|0|1|2026.0|0.0|Apartment|0.0|10906.89|0|1|1|rdestowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
-66.7|4.0|4-7|secondary|1|1|1974.0|0.0|Apartment|1.0|12503.75|0|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|4.0|4-7|secondary|1|1|1974.0|0.0|Apartment|1.0|12503.75|0|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 60.5|3.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|10396.69|0|0|0|kmdr. bolesława romanowskiego|pogórze|gdynia|54.562716|18.494186|gdynia_pogórze
 42.3|2.0|1-3|secondary|0|0|1960.0|1.0|Apartment|1.0|23593.38|1|0|0|jana heweliusza|śródmieście|gdansk|54.356306|18.65071|gdansk_śródmieście
 57.65|3.0|4-7|secondary|0|1|2024.0|1.0|Apartment|0.0|10086.73|1|0|0|potęgowska|jasień|gdansk|54.340089|18.560014|gdansk_jasień
@@ -1525,7 +1525,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 40.0|1.0|4-7|secondary|0|1|2014.0|0.0|Apartment|0.0|19975.0|1|0|0|obrońców wybrzeża|przymorze|gdansk|54.41007|18.596302|gdansk_przymorze
 57.07|3.0|1-3|secondary|1|1|2018.0|0.0|Apartment|0.0|19975.47|0|0|0|obrońców wybrzeża|przymorze|gdansk|54.41007|18.596302|gdansk_przymorze
 38.0|2.0|0|secondary|0|0|1968.0|0.0|Apartment|0.0|14447.37|0|0|0|chłopska|przymorze|gdansk|54.354195|18.650385|gdansk_przymorze
-32.03|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|16546.99|0|0|0|jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+32.03|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|16546.99|0|0|0|jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 47.0|2.0|1-3|secondary|1|1|2016.0|1.0|Apartment|1.0|13829.79|1|0|0|cedrowa|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 49.8|3.0|1-3|secondary|0|0|2013.0|1.0|Apartment|0.0|11646.59|1|0|0|potęgowska|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 85.9|4.0|1-3|secondary|0|0|2001.0|0.0|Apartment|0.0|9196.74|0|0|0|przemyska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
@@ -1660,7 +1660,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 37.17|2.0|1-3|secondary|1|1|2024.0|1.0|Apartment|0.0|11019.29|1|0|0|borkowska|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 40.39|2.0|0|secondary|1|1|2024.0|1.0|Apartment|0.0|10357.54|0|1|0|borkowska|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 73.87|4.0|1-3|secondary|1|1|2024.0|1.0|Apartment|0.0|8936.97|1|0|0|borkowska|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
-66.7|5.0|4-7|secondary|0|1|1970.0|0.0|Apartment|0.0|14392.8|1|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|5.0|4-7|secondary|0|1|1970.0|0.0|Apartment|0.0|14392.8|1|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 53.28|3.0|1-3|secondary|1|1|2023.0|1.0|Apartment|0.0|10792.04|1|0|0|władysława jagiełły|orunia górna - gdańsk południe|gdansk|54.323903|18.632939|gdansk_orunia górna - gdańsk południe
 88.4|4.0|1-3|secondary|0|1|2009.0|1.0|Apartment|1.0|13574.66|1|0|0|juliusza słowackiego|wrzeszcz górny|gdansk|54.381217|18.59427|gdansk_wrzeszcz górny
 79.75|4.0|1-3|secondary|1|1|2022.0|1.0|Apartment|1.0|14420.06|1|0|0||oksywie|gdynia|54.543019|18.536056|gdynia_oksywie
@@ -1838,7 +1838,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 92.04|4.0|1-3|secondary|1|0|1930.0|1.0|Apartment|1.0|15199.91|1|0|0|i armii wojska polskiego|kamienna góra|gdynia|54.179419|15.566957|gdynia_kamienna góra
 45.0|2.0|1-3|secondary|1|1|2023.0|1.0|Apartment|1.0|16666.64|1|0|0|władysława wagnera|chwarzno-wiczlino|gdynia|54.502673|18.424516|gdynia_chwarzno-wiczlino
 88.4|3.0|1-3|secondary|1|0|1998.0|0.0|Apartment|0.0|24886.88|0|0|0|józefa korzeniowskiego|kamienna góra|gdynia|54.510522|18.550653|gdynia_kamienna góra
-74.53|2.0|1-3|secondary|1|1|2006.0|1.0|Apartment|0.0|29518.31|1|0|0|piastowska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+74.53|2.0|1-3|secondary|1|1|2006.0|1.0|Apartment|0.0|29518.31|1|0|0|piastowska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 76.0|3.0|1-3|secondary|1|0|2000.0|0.0|Apartment|1.0|16447.37|1|0|0|wrocławska|orłowo|gdynia|54.475629|18.552093|gdynia_orłowo
 70.0|3.0|4-7|secondary|1|1|2023.0|1.0|Apartment|1.0|29671.43|1|0|1|stara stocznia 8|śródmieście|gdansk|54.355711|18.662944|gdansk_śródmieście
 92.84|3.0|0|secondary|1|1|2013.0|0.0|Apartment|1.0|14218.01|0|1|0|strzelców|mały kack|gdynia|54.475281|18.504812|gdynia_mały kack
@@ -1870,7 +1870,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 67.7|3.0|0|secondary|0|0|2007.0|0.0|Apartment|1.0|10324.96|0|1|0|jana kielasa|orunia górna - gdańsk południe|gdansk|54.323903|18.632939|gdansk_orunia górna - gdańsk południe
 54.6|2.0|4-7|secondary|0|0|1990.0|1.0|Apartment|1.0|12802.2|1|0|0|kornela makuszyńskiego|wrzeszcz górny|gdansk|54.381785|18.58264|gdansk_wrzeszcz górny
 71.99|4.0|1-3|secondary|1|0|2021.0|0.0|Apartment|1.0|11515.49|1|0|1|niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-22.49|2.0|4-7|secondary|0|0|1970.0|0.0|Apartment|1.0|22187.64|0|0|0|piastowska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.418098|18.59032|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+22.49|2.0|4-7|secondary|0|0|1970.0|0.0|Apartment|1.0|22187.64|0|0|0|piastowska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.418098|18.59032|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 93.4|4.0|1-3|secondary|1|1|2007.0|1.0|Apartment|0.0|13383.3|0|0|1|myśliwska|piecki-migowo|gdansk|54.350849|18.567059|gdansk_piecki-migowo
 67.2|3.0|1-3|secondary|0|0|2014.0|0.0|Apartment|0.0|13250.0|0|0|0|janki bryla|chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
 40.86|2.0|1-3|secondary|0|1|2017.0|1.0|Apartment|0.0|13680.86|1|0|0|janki bryla|chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
@@ -2061,7 +2061,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 27.0|1.0|1-3|primary|1|1|2025.0|1.0|Apartment|0.0|16118.04|0|0|1|kartuska|siedlce|gdansk|54.344108|18.581773|gdansk_siedlce
 61.4|3.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|13827.36|0|0|0|dworska|brzeźno|gdansk|54.405621|18.629799|gdansk_brzeźno
 45.6|2.0|1-3|secondary|1|0|2016.0|0.0|Apartment|0.0|26096.49|1|0|0|władysława łokietka|karlikowo|sopot|54.433407|18.579679|sopot_karlikowo
-47.3|3.0|1-3|secondary|0|0|1970.0|1.0|Apartment|1.0|13699.79|1|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.3|3.0|1-3|secondary|0|0|1970.0|1.0|Apartment|1.0|13699.79|1|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 87.0|5.0|0|secondary|0|1|2000.0|1.0|Apartment|1.0|8609.2|0|0|0|ostrołęcka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 45.1|2.0|4-7|secondary|1|1|1975.0|0.0|Apartment|1.0|16605.06|0|0|0||oliwa|gdansk|54.4102295|18.57157|gdansk_oliwa
 71.8|2.0|1-3|secondary|0|0|1936.0|1.0|Apartment|1.0|11977.72|1|0|0|arendta dickmana|oksywie|gdynia|54.554204|18.547169|gdynia_oksywie
@@ -2131,7 +2131,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 42.87|2.0|0|primary|0|1|2024.0|0.0|Apartment|0.0|19900.0|0|0|0|elizy orzeszkowej|aniołki|gdansk|54.363901|18.633522|gdansk_aniołki
 40.43|2.0|0|primary|1|0|2024.0|0.0|Apartment|0.0|19900.0|0|1|0||aniołki|gdansk|54.34902|18.6518|gdansk_aniołki
 70.44|3.0|1-3|secondary|1|1|2011.0|1.0|Apartment|1.0|11626.92|1|0|0||chełm|gdansk|54.337626|18.610962|gdansk_chełm
-22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 65.26|4.0|1-3|primary|1|1|2023.0|1.0|Apartment|0.0|9236.59|1|0|0|maćkowy|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 41.73|2.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|10595.26|0|1|1||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 55.7|3.0|0|primary|1|1|2024.0|0.0|Apartment|0.0|18000.0|0|1|0||aniołki|gdansk|54.34902|18.6518|gdansk_aniołki
@@ -2181,7 +2181,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 117.83|4.0|4-7|secondary|0|1|2024.0|0.0|Apartment|0.0|19900.0|0|0|0|chmielna|śródmieście|gdansk|54.346105|18.656253|gdansk_śródmieście
 72.51|3.0|4-7|secondary|0|1|2024.0|0.0|Apartment|0.0|19900.0|0|0|0|chmielna|śródmieście|gdansk|54.346105|18.656253|gdansk_śródmieście
 56.49|2.0|1-3|secondary|0|1|2024.0|0.0|Apartment|0.0|19900.0|0|0|0|chmielna|śródmieście|gdansk|54.346105|18.656253|gdansk_śródmieście
-73.4|3.0|4-7|secondary|0|1|1992.0|1.0|Apartment|1.0|11539.51|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+73.4|3.0|4-7|secondary|0|1|1992.0|1.0|Apartment|1.0|11539.51|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 75.67|3.0|1-3|secondary|1|1|2020.0|1.0|Apartment|0.0|10307.92|1|0|0|krzysztofa komedy|jasień|gdansk|54.344523|18.533088|gdansk_jasień
 47.5|3.0|1-3|primary|1|0|2024.0|0.0|Apartment|0.0|11452.63|1|0|0|klimatyczna 88|wyspa sobieszewska|gdansk|54.344034|18.827022|gdansk_wyspa sobieszewska
 72.4|2.0|4-7|primary|1|1|2023.0|1.0|Apartment|1.0|8400.0|1|0|0|aleksandra dulin'a|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
@@ -2267,14 +2267,14 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 89.7|4.0|1-3|secondary|1|0|1910.0|0.0|Apartment|1.0|11003.34|1|0|0|śniadeckich|aniołki|gdansk|54.364495|18.631909|gdansk_aniołki
 83.0|4.0|0|secondary|1|1|2023.0|0.0|Apartment|0.0|23975.9|1|0|0|artura grottgera|oliwa|gdansk|54.283323|18.571471|gdansk_oliwa
 41.29|2.0|1-3|primary|1|1|2025.0|1.0|Apartment|1.0|12303.22|1|0|0|kielnieńska|osowa|gdansk|54.430298|18.470018|gdansk_osowa
-31.0|2.0|1-3|secondary|0|0|1975.0|1.0|Apartment|0.0|18935.48|1|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|2.0|1-3|secondary|0|0|1975.0|1.0|Apartment|0.0|18935.48|1|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 61.1|3.0|4-7|secondary|1|0|1986.0|0.0|Apartment|0.0|9148.94|1|0|0|marcina dragana|chełm|gdansk|54.341166|18.612163|gdansk_chełm
 60.0|3.0|4-7|primary|1|1|2024.0|1.0|Apartment|0.0|9666.67|1|0|0||jasień|gdansk|54.340089|18.560014|gdansk_jasień
 33.86|2.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|11900.0|1|0|0|borkowska|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 85.94|4.0|4-7|secondary|1|1|2013.0|1.0|Apartment|0.0|14882.48|1|0|0|magellana|piecki-migowo|gdansk|54.363678|18.582584|gdansk_piecki-migowo
 50.0|2.0|4-7|secondary|0|1|2003.0|1.0|Apartment|0.0|17900.0|0|0|1|al. jana pawła ii|zaspa|gdansk|54.398342|18.605919|gdansk_zaspa
 50.87|3.0|1-3|secondary|1|1|2016.0|1.0|Apartment|1.0|13544.33|1|0|0|lawendowe wzgórze|jasień|gdansk|54.340089|18.560014|gdansk_jasień
-52.6|3.0|0|secondary|0|0|1973.0|1.0|Apartment|1.0|12338.4|1|0|0|rybacka|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+52.6|3.0|0|secondary|0|0|1973.0|1.0|Apartment|1.0|12338.4|1|0|0|rybacka|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 78.77|4.0|1-3|secondary|1|1|2022.0|1.0|Apartment|0.0|11425.67|0|0|1|niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 38.69|2.0|1-3|primary|1|0|2024.0|1.0|Apartment|0.0|15249.42|1|0|0|klimatyczna 88|wyspa sobieszewska|gdansk|54.344034|18.827022|gdansk_wyspa sobieszewska
 76.9|4.0|4-7|primary|1|1|2023.0|1.0|Apartment|0.0|8400.0|1|0|0|aleksandra dulin'a|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
@@ -2520,7 +2520,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 49.0|2.0|1-3|secondary|0|0|1960.0|1.0|Apartment|1.0|9285.71|1|0|0|władysława iv|nowy port|gdansk|54.401528|18.66328|gdansk_nowy port
 76.0|3.0|1-3|secondary|1|0|1932.0|1.0|Apartment|1.0|10118.42|0|0|0|bernarda chrzanowskiego|śródmieście|gdynia|54.528796|18.542842|gdynia_śródmieście
 70.97|2.0|1-3|secondary|1|0|1938.0|0.0|Apartment|1.0|10962.38|0|0|0|morska|grabówek|gdynia|54.537343|18.474899|gdynia_grabówek
-30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 53.33|3.0|1-3|primary|1|1|2023.0|0.0|Apartment|1.0|11900.0|1|0|0|koperkowa|dąbrowa|gdynia|54.476685|18.4647|gdynia_dąbrowa
 97.9|2.0|4-7|primary|1|1|2023.0|1.0|Apartment|1.0|8400.0|1|0|0|aleksandra dulin'a|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 60.95|3.0|1-3|primary|1|0|2024.0|1.0|Apartment|0.0|12698.93|0|0|0|gerarda denhoffa 2|grabówek|gdynia|54.523362|18.51654|gdynia_grabówek
@@ -2640,7 +2640,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 49.38|3.0|1-3|secondary|1|1|2016.0|0.0|Apartment|0.0|15390.85|1|0|0|przytulna|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 72.0|3.0|1-3|secondary|1|0|2019.0|0.0|Apartment|0.0|9708.33|1|0|0|stężycka|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 54.0|5.0|0|secondary|0|0|1970.0|0.0|Apartment|1.0|12222.22|0|0|0|kołobrzeska|przymorze|gdansk|54.404177|18.592665|gdansk_przymorze
-60.0|3.0|4-7|secondary|1|0|1991.0|0.0|Apartment|0.0|14500.0|1|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+60.0|3.0|4-7|secondary|1|0|1991.0|0.0|Apartment|0.0|14500.0|1|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 59.41|3.0|1-3|secondary|1|1|2008.0|1.0|Apartment|0.0|20164.96|1|0|0|lęborska|przymorze|gdansk|53.931427|18.840893|gdansk_przymorze
 68.07|3.0|1-3|secondary|1|1|2008.0|0.0|Apartment|0.0|19391.8|1|0|0|lęborska|przymorze|gdansk|53.931427|18.840893|gdansk_przymorze
 54.47|3.0|1-3|secondary|1|1|2020.0|0.0|Apartment|0.0|13769.05|1|0|0|kazimierza wielkiego|orunia górna - gdańsk południe|gdansk|54.323903|18.632939|gdansk_orunia górna - gdańsk południe
@@ -2737,7 +2737,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 55.94|3.0|4-7|secondary|0|0|1992.0|1.0|Apartment|1.0|9814.09|0|0|0|emilii hoene|orunia górna - gdańsk południe|gdansk|54.323903|18.632939|gdansk_orunia górna - gdańsk południe
 61.4|2.0|1-3|secondary|1|1|2008.0|1.0|Apartment|1.0|22312.7|1|0|0||karlikowo|sopot|54.433407|18.579679|sopot_karlikowo
 36.5|1.0|4-7|secondary|1|1|2012.0|1.0|Apartment|0.0|13972.6|1|0|0|bronisława dembińskiego|leszczynki|gdynia|54.524049|18.490612|gdynia_leszczynki
-32.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|17781.25|0|0|0|jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+32.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|17781.25|0|0|0|jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 101.1|4.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|24284.67|1|0|0|smolna|świemirowo|sopot|54.427386|18.558077|sopot_świemirowo
 29.0|2.0|4-7|secondary|0|0|1963.0|1.0|Apartment|1.0|15689.66|1|0|0|chłopska|przymorze|gdansk|52.929098|10.527323|gdansk_przymorze
 57.0|3.0|1-3|secondary|0|0|1972.0|0.0|Apartment|1.0|10508.77|1|0|0||chylonia|gdynia|54.545488|18.464193|gdynia_chylonia
@@ -2774,7 +2774,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 73.0|3.0|1-3|secondary|1|1|2015.0|1.0|Apartment|1.0|13100.0|1|0|0|andaluzyjska|oksywie|gdynia|54.543019|18.536056|gdynia_oksywie
 46.0|2.0|8+|secondary|0|1|1973.0|0.0|Apartment|1.0|11717.39|1|0|0|jagiellońska|przymorze|gdansk|54.354195|18.650385|gdansk_przymorze
 44.15|2.0|1-3|secondary|1|1|2022.0|1.0|Apartment|0.0|14949.04|1|0|0||orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
-22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 53.33|3.0|1-3|primary|1|1|2023.0|0.0|Apartment|1.0|11900.0|1|0|0|koperkowa|dąbrowa|gdynia|54.476685|18.4647|gdynia_dąbrowa
 25.7|1.0|4-7|primary|1|1|2024.0|1.0|Apartment|0.0|18450.0|0|0|0|mostek|śródmieście|gdansk|54.350682|18.673418|gdansk_śródmieście
 106.25|5.0|1-3|primary|1|1|2024.0|1.0|Apartment|0.0|21500.0|0|0|0|dolny sopot - grunwaldzka|dolny sopot|sopot|52.992701|37.343434|sopot_dolny sopot
@@ -2828,7 +2828,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 49.52|2.0|0|secondary|1|1|2021.0|0.0|Apartment|0.0|23910.34|0|1|1|łąkowa|wyspa sobieszewska|gdansk|54.344034|18.827022|gdansk_wyspa sobieszewska
 47.24|3.0|1-3|primary|1|1|2025.0|1.0|Apartment|1.0|12500.0|1|0|0|pólnicy|jasień|gdansk|54.342075|18.563478|gdansk_jasień
 60.1|3.0|4-7|secondary|0|1|1983.0|1.0|Apartment|1.0|10299.5|1|0|0|narcyzowa|witomino|gdynia|54.498498|18.509001|gdynia_witomino
-52.7|3.0|4-7|secondary|0|0|1970.0|0.0|Apartment|1.0|11574.95|0|0|0|szyprów|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+52.7|3.0|4-7|secondary|0|0|1970.0|0.0|Apartment|1.0|11574.95|0|0|0|szyprów|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 37.0|2.0|1-3|secondary|1|0|2022.0|0.0|Apartment|0.0|13918.92|1|0|0|franciszka sokoła|chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
 44.03|2.0|1-3|primary|0|1|2024.0|1.0|Apartment|0.0|12000.0|0|0|1|kartuska|jasień|gdansk|54.353248|18.49488|gdansk_jasień
 35.71|1.0|0|primary|0|1|2024.0|1.0|Apartment|0.0|9998.99|1|0|0|kartuska|jasień|gdansk|54.353248|18.49488|gdansk_jasień
@@ -2841,7 +2841,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 53.35|2.0|1-3|secondary|0|0|1906.0|1.0|Apartment|1.0|13964.39|0|0|0|mariana seredyńskiego|śródmieście|gdansk|54.349523|18.66626|gdansk_śródmieście
 43.0|2.0|1-3|secondary|1|1|2017.0|1.0|Apartment|0.0|14627.91|1|0|0|mjr. mieczysława słabego|matarnia|gdansk|54.371912|18.524322|gdansk_matarnia
 82.82|3.0|4-7|secondary|0|1|2014.0|1.0|Apartment|0.0|18703.21|1|0|1|toruńska|śródmieście|gdansk|54.343247|18.651663|gdansk_śródmieście
-47.3|2.0|1-3|secondary|0|1|1970.0|1.0|Apartment|1.0|14693.45|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.3|2.0|1-3|secondary|0|1|1970.0|1.0|Apartment|1.0|14693.45|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 52.69|2.0|0|secondary|1|1|2022.0|1.0|Apartment|0.0|11500.0|0|1|0|nike|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 63.9|3.0|1-3|secondary|0|0|1996.0|1.0|Apartment|1.0|12503.91|0|0|0|elewów|matarnia|gdansk|54.372639|18.517912|gdansk_matarnia
 58.0|3.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|13258.62|0|0|0|piastowska|przymorze|gdansk|54.416119|18.586288|gdansk_przymorze
@@ -2985,7 +2985,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 47.24|3.0|1-3|primary|1|1|2025.0|1.0|Apartment|1.0|12700.0|1|0|0|pólnicy|jasień|gdansk|54.342075|18.563478|gdansk_jasień
 42.85|2.0|0|primary|1|1|2025.0|0.0|Apartment|0.0|11300.0|0|1|1|chylońska 172|cisowa|gdynia|54.548571|18.443583|gdynia_cisowa
 49.49|3.0|1-3|primary|1|1|2025.0|1.0|Apartment|1.0|12103.46|0|0|1|kielnieńska|osowa|gdansk|54.430298|18.470018|gdansk_osowa
-66.7|4.0|4-7|secondary|0|1|1975.0|1.0|Apartment|1.0|12398.8|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|4.0|4-7|secondary|0|1|1975.0|1.0|Apartment|1.0|12398.8|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 68.4|3.0|1-3|primary|1|1|2024.0|1.0|Apartment|1.0|14500.0|0|0|0||letnica|gdansk|54.337888|18.671963|gdansk_letnica
 46.0|3.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|9543.48|1|0|0|płk. stanisława dąbka|obłuże|gdynia|52.192673|20.889355|gdynia_obłuże
 58.09|3.0|4-7|secondary|1|1|2023.0|1.0|Apartment|0.0|13513.51|1|0|0|kmdr. tadeusza bramińskiego|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
@@ -3104,7 +3104,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 50.16|3.0|0|secondary|0|0|1919.0|0.0|Apartment|0.0|15929.03|0|0|0|śluza|śródmieście|gdansk|54.341346|18.657911|gdansk_śródmieście
 82.75|4.0|1-3|secondary|1|1|2021.0|1.0|Apartment|0.0|18006.04|0|1|1|kamienna grobla|śródmieście|gdansk|54.342992|18.658266|gdansk_śródmieście
 37.42|2.0|1-3|primary|1|0|2024.0|1.0|Apartment|0.0|13896.31|1|0|0|klimatyczna 88|wyspa sobieszewska|gdansk|54.344034|18.827022|gdansk_wyspa sobieszewska
-42.0|2.0|1-3|secondary|1|1|2017.0|0.0|Apartment|0.0|30000.0|0|0|0|jelitkowska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+42.0|2.0|1-3|secondary|1|1|2017.0|0.0|Apartment|0.0|30000.0|0|0|0|jelitkowska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 65.0|4.0|4-7|secondary|1|1|2019.0|0.0|Apartment|0.0|19230.77|1|0|0|św. barbary|śródmieście|gdansk|54.349398|18.663182|gdansk_śródmieście
 27.31|1.0|1-3|secondary|0|1|2019.0|0.0|Apartment|0.0|22702.31|1|0|0|pszenna|śródmieście|gdansk|54.345989|18.657542|gdansk_śródmieście
 54.75|3.0|0|secondary|0|1|1980.0|0.0|Apartment|0.0|14520.55|1|1|0|oskara kolberga|brodwino|sopot|54.457739|18.535432|sopot_brodwino
@@ -3150,7 +3150,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 72.0|4.0|8+|secondary|0|1|1973.0|0.0|Apartment|0.0|11805.56|1|0|0|obrońców wybrzeża|przymorze|gdansk|54.41007|18.596302|gdansk_przymorze
 31.2|2.0|1-3|secondary|1|0|1953.0|0.0|Apartment|1.0|18525.64|1|0|0|kowalska|śródmieście|gdansk|54.353055|18.648796|gdansk_śródmieście
 45.84|2.0|0|primary|1|0|2021.0|1.0|Apartment|1.0|12000.0|1|1|1|władysława jagiełły|orunia górna - gdańsk południe|gdansk|54.323903|18.632939|gdansk_orunia górna - gdańsk południe
-22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+22.0|1.0|4-7|secondary|0|0|1980.0|1.0|Apartment|1.0|22681.82|0|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 103.76|4.0|8+|secondary|1|1|2020.0|0.0|Apartment|0.0|28816.5|0|0|0|węglowa|śródmieście|gdynia|54.5198415|18.538188|gdynia_śródmieście
 66.85|3.0|4-7|primary|1|0|2023.0|0.0|Apartment|0.0|17325.0|0|0|0|św. piotra|śródmieście|gdynia|54.524781|18.545343|gdynia_śródmieście
 69.18|3.0|1-3|secondary|0|0|1953.0|1.0|Apartment|1.0|14440.59|1|0|0|legionów|kamienna góra|gdynia|52.44542|20.766888|gdynia_kamienna góra
@@ -3651,7 +3651,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 39.61|2.0|0|primary|1|1|2024.0|0.0|Apartment|0.0|14700.0|1|0|0||piecki-migowo|gdansk|54.351931|18.575399500000003|gdansk_piecki-migowo
 54.0|2.0|4-7|secondary|1|1|2022.0|0.0|Apartment|0.0|17592.59|1|0|0|łąkowa|śródmieście|gdansk|54.342169|18.660846|gdansk_śródmieście
 80.44|3.0|1-3|secondary|1|1|2012.0|1.0|Apartment|0.0|12991.05|1|0|0||chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
-30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 69.72|3.0|1-3|primary|1|1|2024.0|0.0|Apartment|0.0|9300.06|1|0|0||jasień|gdansk|54.340089|18.560014|gdansk_jasień
 57.29|3.0|1-3|primary|1|1|2025.0|0.0|Apartment|0.0|12127.56|1|0|0||piecki-migowo|gdansk|54.351931|18.575399500000003|gdansk_piecki-migowo
 34.98|2.0|1-3|primary|1|0|2024.0|1.0|Apartment|0.0|14522.58|1|0|0|klimatyczna 88|wyspa sobieszewska|gdansk|54.344034|18.827022|gdansk_wyspa sobieszewska
@@ -3680,7 +3680,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 73.27|4.0|1-3|secondary|0|0|1915.0|0.0|Apartment|0.0|20472.23|0|0|0|aleja niepodległości|górny sopot|sopot|54.442402|18.559893|sopot_górny sopot
 46.0|2.0|1-3|secondary|1|1|2023.0|1.0|Apartment|1.0|28891.3|1|0|0||orłowo|gdynia|54.476907|18.5487875|gdynia_orłowo
 76.9|2.0|4-7|primary|1|1|2023.0|1.0|Apartment|0.0|8400.0|1|0|0|aleksandra dulin'a|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-31.0|2.0|4-7|secondary|0|0|1972.0|0.0|Apartment|1.0|15612.9|1|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|2.0|4-7|secondary|0|0|1972.0|0.0|Apartment|1.0|15612.9|1|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 92.55|4.0|1-3|secondary|0|1|2012.0|1.0|Apartment|0.0|15451.11|1|0|0|do studzienki|wrzeszcz górny|gdansk|54.371203|18.610702|gdansk_wrzeszcz górny
 60.25|3.0|1-3|primary|0|1|2024.0|1.0|Apartment|0.0|9200.0|0|0|0|kartuska|jasień|gdansk|54.353248|18.49488|gdansk_jasień
 126.05|4.0|1-3|secondary|1|0|2001.0|0.0|Apartment|1.0|12296.71|1|1|0|druskiennicka|mały kack|gdynia|54.477285|18.522244|gdynia_mały kack
@@ -3700,7 +3700,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 55.92|3.0|1-3|primary|0|0|2024.0|1.0|Apartment|0.0|9692.42|0|0|0|chylońska 168|chylonia|gdynia|54.541477|18.463162|gdynia_chylonia
 73.0|4.0|0|secondary|0|0|1988.0|0.0|Apartment|0.0|17794.52|0|0|0|aleja gen. józefa hallera|brzeźno|gdansk|54.392372|18.622213|gdansk_brzeźno
 87.07|3.0|1-3|primary|1|1|2024.0|0.0|Apartment|0.0|10400.0|1|0|0||letnica|gdansk|54.337888|18.671963|gdansk_letnica
-42.0|2.0|1-3|secondary|0|0|1974.0|1.0|Apartment|1.0|16404.76|0|0|0|jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+42.0|2.0|1-3|secondary|0|0|1974.0|1.0|Apartment|1.0|16404.76|0|0|0|jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 59.8|3.0|0|secondary|0|1|1970.0|1.0|Apartment|1.0|13712.37|1|0|0|kołobrzeska|przymorze|gdansk|54.404177|18.592665|gdansk_przymorze
 57.65|3.0|1-3|primary|1|0|2024.0|0.0|Apartment|0.0|10000.0|1|0|0|potęgowska|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 60.0|3.0|1-3|secondary|1|0|2022.0|0.0|Apartment|0.0|23150.0|0|0|0|wałowa|śródmieście|gdansk|54.3463466|18.6662024|gdansk_śródmieście
@@ -3847,7 +3847,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 48.0|2.0|1-3|secondary|1|1|2021.0|1.0|Apartment|0.0|19500.0|0|0|1|sienna grobla|śródmieście|gdansk|54.356946|18.667037|gdansk_śródmieście
 66.67|3.0|4-7|secondary|0|1|1978.0|1.0|Apartment|1.0|8834.56|1|0|0|janowska|cisowa|gdynia|54.550178|18.438679|gdynia_cisowa
 70.66|3.0|1-3|primary|0|1|2024.0|0.0|Apartment|0.0|16501.56|1|0|0||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
-30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 66.1|3.0|1-3|secondary|0|0|1890.0|0.0|Apartment|1.0|15113.46|0|0|0|gen. władysława andersa|osiedle mickiewicza|sopot|54.440668|18.55594|sopot_osiedle mickiewicza
 25.38|1.0|1-3|secondary|0|0|1960.0|0.0|Apartment|1.0|15366.43|0|0|0|legionów|wzgórze św. maksymiliana|gdynia|54.50296|18.542419|gdynia_wzgórze św. maksymiliana
 61.1|3.0|0|secondary|0|0|2008.0|1.0|Apartment|0.0|13895.25|0|1|0|królewskie wzgórze|piecki-migowo|gdansk|54.349808|18.569542|gdansk_piecki-migowo
@@ -3906,7 +3906,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 51.89|3.0|0|secondary|1|0|2013.0|1.0|Apartment|0.0|15802.66|0|1|0|jacka malczewskiego|siedlce|gdansk|54.348542|18.624595|gdansk_siedlce
 63.63|3.0|1-3|secondary|0|0|1991.0|0.0|Apartment|0.0|10513.91|0|0|0||ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 47.0|2.0|1-3|secondary|1|0|2011.0|1.0|Apartment|1.0|11914.89|1|0|0||ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-47.0|3.0|1-3|secondary|0|1|1975.0|0.0|Apartment|1.0|14212.77|1|0|0|pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.0|3.0|1-3|secondary|0|1|1975.0|0.0|Apartment|1.0|14212.77|1|0|0|pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 76.93|3.0|1-3|secondary|1|0|2020.0|0.0|Apartment|0.0|9424.15|1|0|1|niepołomicka|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 40.0|2.0|1-3|primary|1|0|2024.0|0.0|Apartment|0.0|12225.0|1|0|0|klimatyczna 88|wyspa sobieszewska|gdansk|54.344034|18.827022|gdansk_wyspa sobieszewska
 64.5|4.0|1-3|secondary|1|0|2000.0|0.0|Apartment|1.0|12387.6|1|0|0|myśliwska|wielki kack|gdynia|54.467664|18.492842|gdynia_wielki kack
@@ -4098,7 +4098,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 78.2|4.0|1-3|secondary|1|0|1998.0|0.0|Apartment|0.0|10217.39|1|0|0|łódzka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 70.87|3.0|0|secondary|1|1|2013.0|1.0|Apartment|0.0|21165.51|0|1|1|jaśkowa dolina|wrzeszcz górny|gdansk|54.34902|18.6518|gdansk_wrzeszcz górny
 27.68|1.0|0|primary|1|1|2024.0|1.0|Apartment|0.0|15420.7|1|0|0||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
-30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|0|1|1975.0|0.0|Apartment|1.0|15825.24|0|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 121.2|4.0|4-7|secondary|0|1|2007.0|0.0|Apartment|0.0|15264.03|0|0|0||zaspa|gdansk|54.34902|18.6518|gdansk_zaspa
 82.0|3.0|1-3|secondary|1|0|2022.0|0.0|Apartment|0.0|10719.51|1|0|0|augustyna krauzego|chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
 111.0|4.0|1-3|secondary|1|0|2015.0|1.0|Apartment|0.0|11711.7|1|0|1|jeziorowa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
@@ -4454,7 +4454,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 41.0|2.0|1-3|secondary|1|1|2019.0|1.0|Apartment|0.0|13390.24|1|0|0|krzysztofa komedy|jasień|gdansk|54.344523|18.533088|gdansk_jasień
 46.31|2.0|1-3|secondary|0|1|2018.0|1.0|Apartment|0.0|19995.68|1|0|0|chmielna|śródmieście|gdansk|54.346105|18.656253|gdansk_śródmieście
 55.74|2.0|1-3|secondary|1|1|2023.0|0.0|Apartment|0.0|17761.03|0|0|1|św. piotra|śródmieście|gdynia|54.524781|18.545343|gdynia_śródmieście
-36.6|2.0|4-7|secondary|0|1|1977.0|0.0|Apartment|1.0|13633.88|1|0|0||żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+36.6|2.0|4-7|secondary|0|1|1977.0|0.0|Apartment|1.0|13633.88|1|0|0||Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 135.9|5.0|4-7|secondary|1|0|1994.0|0.0|Apartment|1.0|6607.8|1|0|0|rdestowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
 118.0|3.0|0|secondary|1|1|2022.0|0.0|Apartment|0.0|22881.36|0|1|0|przebendowskich|orłowo|gdynia|54.476641|18.556451|gdynia_orłowo
 64.3|3.0|0|primary|1|0|2023.0|0.0|Apartment|0.0|19901.29|0|1|1|jana bażyńskiego|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
@@ -4703,7 +4703,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 51.16|3.0|1-3|secondary|0|0|2023.0|0.0|Apartment|0.0|11903.83|0|0|0|hokejowa|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 64.23|3.0|1-3|secondary|1|0|2022.0|0.0|Apartment|0.0|15787.02|1|0|0||letnica|gdansk|54.337888|18.671963|gdansk_letnica
 54.74|3.0|1-3|primary|1|1|2023.0|0.0|Apartment|0.0|9611.98|0|1|1|hokejowa|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
-59.0|3.0|4-7|secondary|0|0|1991.0|1.0|Apartment|1.0|14745.76|1|0|0|gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.422439|18.580986|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+59.0|3.0|4-7|secondary|0|0|1991.0|1.0|Apartment|1.0|14745.76|1|0|0|gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.422439|18.580986|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 27.68|1.0|0|primary|1|1|2024.0|1.0|Apartment|0.0|15420.7|1|0|0||śródmieście|gdansk|54.34902|18.6518|gdansk_śródmieście
 37.0|2.0|1-3|secondary|1|0|2022.0|0.0|Apartment|0.0|13918.92|1|0|0|franciszka sokoła|chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
 70.25|3.0|1-3|secondary|1|0|1930.0|1.0|Apartment|1.0|15160.14|0|0|0|al. grunwaldzka 492|oliwa|gdansk|54.407476|18.568982|gdansk_oliwa
@@ -4925,7 +4925,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 55.89|3.0|0|primary|0|0|2023.0|0.0|Apartment|0.0|10800.0|0|0|0|niepołomicka|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 79.1|2.0|4-7|secondary|0|0|1902.0|0.0|Apartment|0.0|12629.58|1|0|0||młyniska|gdansk|54.353551|18.649763|gdansk_młyniska
 59.0|3.0|1-3|secondary|1|1|2024.0|0.0|Apartment|1.0|12831.0|1|0|1| null|letnica|gdansk|54.337888|18.671963|gdansk_letnica
-41.07|3.0|4-7|secondary|0|0|1970.0|0.0|Apartment|0.0|19455.0|0|0|0| tysiąclecia|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+41.07|3.0|4-7|secondary|0|0|1970.0|0.0|Apartment|0.0|19455.0|0|0|0| tysiąclecia|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 63.1|3.0|4-7|secondary|0|0|1989.0|1.0|Apartment|1.0|9984.0|1|0|0| prof. romualda cebertowicza|chełm|gdansk|54.336259|18.605862|gdansk_chełm
 57.0|3.0|1-3|secondary|0|0|2011.0|0.0|Apartment|0.0|11737.0|0|0|0| zeusa|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 54.0|3.0|1-3|secondary|0|0|1935.0|0.0|Apartment|1.0|8487.0|0|0|0| przetoczna|przeróbka|gdansk|54.359363|18.675176|gdansk_przeróbka
@@ -4953,7 +4953,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 74.34|3.0|1-3|secondary|1|1|2018.0|1.0|Apartment|1.0|20043.0|0|0|0| dywizjonu 303|zaspa|gdansk|54.390985|18.600482|gdansk_zaspa
 60.0|3.0|1-3|secondary|1|0|1950.0|1.0|Apartment|1.0|14167.0|1|0|0| necla augustyna|kamienna góra|gdynia|54.509971|18.546493|gdynia_kamienna góra
 74.0|3.0|1-3|secondary|1|1|2017.0|0.0|Apartment|0.0|23649.0|1|0|0| bernadowska|orłowo|gdynia|54.475629|18.552093|gdynia_orłowo
-66.7|4.0|4-7|secondary|0|0|1975.0|0.0|Apartment|1.0|12399.0|0|0|0| pomorska 15a|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.418146|18.575741|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|4.0|4-7|secondary|0|0|1975.0|0.0|Apartment|1.0|12399.0|0|0|0| pomorska 15a|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.418146|18.575741|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 71.46|3.0|1-3|secondary|0|0|2020.0|0.0|Apartment|0.0|16653.0|0|0|0| wielkopolska 296|mały kack|gdynia|54.471275|18.510349|gdynia_mały kack
 65.6|3.0|1-3|secondary|0|0|2009.0|1.0|Apartment|0.0|9909.0|1|0|0| wielkopolska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 53.0|2.0|1-3|secondary|1|1|2013.0|1.0|Apartment|0.0|16917.0|1|0|0| bolesława chrobrego|wrzeszcz|gdansk|54.391209|18.617053|gdansk_wrzeszcz
@@ -5012,7 +5012,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 75.93|4.0|1-3|secondary|1|0|1993.0|1.0|Apartment|1.0|8561.0|1|0|0| null|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 43.5|2.0|4-7|secondary|1|1|2013.0|1.0|Apartment|1.0|12644.0|1|0|0| null|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 47.0|2.0|4-7|secondary|1|1|2017.0|0.0|Apartment|0.0|24255.0|0|0|0| jaglana|śródmieście|gdansk|54.344147|18.656364|gdansk_śródmieście
-66.7|4.0|4-7|secondary|1|1|1974.0|0.0|Apartment|1.0|12504.0|0|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|4.0|4-7|secondary|1|1|1974.0|0.0|Apartment|1.0|12504.0|0|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 74.09|3.0|0|secondary|1|0|1910.0|0.0|Apartment|1.0|16993.0|0|1|0| grunwaldzka|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
 60.78|3.0|1-3|secondary|1|0|1920.0|0.0|Apartment|0.0|14956.0|0|0|0| dębinki|aniołki|gdansk|54.365331|18.627196|gdansk_aniołki
 36.34|1.0|1-3|secondary|0|1|2024.0|0.0|Apartment|0.0|24000.0|1|0|0| chmielna|śródmieście|gdansk|54.346105|18.656253|gdansk_śródmieście
@@ -5076,13 +5076,13 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 48.0|2.0|0|secondary|0|0|2009.0|0.0|Apartment|0.0|11438.0|0|0|0| lubczykowa|dąbrowa|gdynia|54.473807|18.470299|gdynia_dąbrowa
 50.0|4.0|1-3|secondary|1|0|1957.0|1.0|Apartment|1.0|13980.0|0|0|0| malczewskiego 116|siedlce|gdansk|54.348485|18.625118|gdansk_siedlce
 110.0|5.0|0|secondary|1|0|1906.0|0.0|Apartment|0.0|18091.0|1|1|0| pileckiego|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
-42.4|2.0|1-3|secondary|0|1|1975.0|0.0|Apartment|1.0|14127.0|0|0|0| aleja grunwaldzka|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.392494|18.583594|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+42.4|2.0|1-3|secondary|0|1|1975.0|0.0|Apartment|1.0|14127.0|0|0|0| aleja grunwaldzka|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.392494|18.583594|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 41.78|2.0|1-3|secondary|0|1|2017.0|0.0|Apartment|0.0|21517.0|1|0|0| edwarda stachury|wrzeszcz|gdansk|54.382628|18.587983|gdansk_wrzeszcz
 70.0|3.0|0|secondary|1|1|2016.0|0.0|Apartment|0.0|10986.0|0|0|0| janki bryla|chwarzno-wiczlino|gdynia|54.49358|18.442439|gdynia_chwarzno-wiczlino
 35.0|2.0|0|secondary|1|0|1950.0|0.0|Apartment|1.0|8429.0|1|0|0| chylońska|chylonia|gdynia|54.545155|18.460712|gdynia_chylonia
 56.3|3.0|0|secondary|0|1|1975.0|1.0|Apartment|1.0|15968.0|1|1|1| pilotów 16|zaspa|gdansk|54.394329|18.588965|gdansk_zaspa
 26.1|2.0|1-3|secondary|0|0|1975.0|1.0|Apartment|0.0|14510.0|0|0|0| hallera|brzeźno|gdansk|54.410838|18.630162|gdansk_brzeźno
-191.0|5.0|0|secondary|1|0|1972.0|1.0|Apartment|0.0|25628.0|0|1|0| nadmorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.422097|18.599165|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+191.0|5.0|0|secondary|1|0|1972.0|1.0|Apartment|0.0|25628.0|0|1|0| nadmorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.422097|18.599165|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 50.7|4.0|1-3|secondary|0|1|1989.0|0.0|Apartment|0.0|14990.0|1|0|0| dywizjonu 303|zaspa|gdansk|54.390985|18.600482|gdansk_zaspa
 37.9|2.0|1-3|secondary|0|0|1940.0|0.0|Apartment|1.0|19921.0|0|0|0| księżycowa|górny sopot|sopot|54.4409635|18.561271|sopot_górny sopot
 56.0|3.0|1-3|secondary|1|1|1977.0|0.0|Apartment|1.0|20536.0|1|0|0| karlikowska|karlikowo|sopot|54.436814|18.574051|sopot_karlikowo
@@ -5149,7 +5149,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 76.38|4.0|1-3|secondary|1|1|2023.0|0.0|Apartment|0.0|15187.0|1|0|0| magellana|piecki-migowo|gdansk|54.363678|18.582584|gdansk_piecki-migowo
 78.0|3.0|1-3|secondary|0|0|1900.0|1.0|Apartment|1.0|10740.0|0|0|0| do studzienki|wrzeszcz|gdansk|54.371203|18.610702|gdansk_wrzeszcz
 46.0|2.0|1-3|secondary|0|1|1971.0|0.0|Apartment|0.0|14348.0|0|0|0| piastowska|przymorze|gdansk|54.416119|18.586288|gdansk_przymorze
-31.0|1.0|1-3|secondary|0|1|1970.0|0.0|Apartment|0.0|15323.0|0|0|0| subisława|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|1.0|1-3|secondary|0|1|1970.0|0.0|Apartment|0.0|15323.0|0|0|0| subisława|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 50.5|2.0|4-7|secondary|1|1|2023.0|0.0|Apartment|0.0|10297.0|1|0|0| wielkopolska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 85.7|4.0|4-7|secondary|1|1|2013.0|1.0|Apartment|0.0|11039.0|1|0|0| leszczynowa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 39.8|2.0|4-7|secondary|1|1|2015.0|0.0|Apartment|0.0|20075.0|1|0|0| stanisława lema|piecki-migowo|gdansk|54.349019|18.590817|gdansk_piecki-migowo
@@ -5180,10 +5180,10 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 50.27|3.0|1-3|secondary|0|0|2008.0|1.0|Apartment|0.0|10921.0|1|0|0| władysława czermińskiego|jasień|gdansk|54.323389|18.555741|gdansk_jasień
 27.0|1.0|1-3|secondary|1|1|2021.0|0.0|Apartment|0.0|16544.0|1|0|0| kartuska|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 33.0|2.0|1-3|secondary|1|0|2012.0|0.0|Apartment|0.0|13939.0|1|0|0| konrada guderskiego|jasień|gdansk|54.319674|18.563248|gdansk_jasień
-60.0|3.0|4-7|secondary|1|0|1991.0|0.0|Apartment|0.0|14500.0|1|0|0| gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+60.0|3.0|4-7|secondary|1|0|1991.0|0.0|Apartment|0.0|14500.0|1|0|0| gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 76.0|3.0|1-3|secondary|1|1|2000.0|1.0|Apartment|1.0|16579.0|1|1|0| wojciecha kętrzyńskiego|przymorze|gdansk|54.411959|18.58279|gdansk_przymorze
 59.41|3.0|1-3|secondary|1|1|2008.0|1.0|Apartment|0.0|20165.0|1|0|0| lęborska|przymorze|gdansk|54.404815|18.579732|gdansk_przymorze
-23.15|1.0|1-3|secondary|1|0|1967.0|0.0|Apartment|1.0|19654.0|0|0|0| gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+23.15|1.0|1-3|secondary|1|0|1967.0|0.0|Apartment|1.0|19654.0|0|0|0| gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 60.0|3.0|1-3|secondary|0|0|2004.0|0.0|Apartment|0.0|12417.0|1|0|0| jeleniogórska|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
 78.0|4.0|1-3|secondary|0|0|1998.0|1.0|Apartment|0.0|10038.0|1|0|0| łódzka|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
 33.4|1.0|0|secondary|0|0|2000.0|0.0|Apartment|1.0|13443.0|1|0|0| częstochowska|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
@@ -5289,7 +5289,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 52.0|2.0|8+|secondary|0|1|2011.0|1.0|Apartment|0.0|18199.0|0|0|0| partyzantów|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
 43.9|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|12301.0|1|0|0| kartuska|chylonia|gdynia|54.541477|18.463162|gdynia_chylonia
 47.7|2.0|1-3|secondary|1|0|1930.0|0.0|Apartment|0.0|10457.0|0|0|0| zielna|olszynka|gdansk|54.336058|18.668852|gdansk_olszynka
-60.0|3.0|1-3|secondary|1|1|2008.0|1.0|Apartment|1.0|29167.0|1|0|0| wypoczynkowa|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+60.0|3.0|1-3|secondary|1|1|2008.0|1.0|Apartment|1.0|29167.0|1|0|0| wypoczynkowa|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 67.0|3.0|1-3|secondary|0|0|1940.0|1.0|Apartment|1.0|11925.0|0|1|0| stanisława worcella|chełm|gdansk|54.339999|18.626439|gdansk_chełm
 66.6|2.0|1-3|secondary|1|0|1920.0|1.0|Apartment|0.0|12744.0|1|0|0| dębinki|aniołki|gdansk|54.365331|18.627196|gdansk_aniołki
 63.17|3.0|1-3|secondary|1|0|1920.0|1.0|Apartment|0.0|14865.0|0|0|0| dębinki|aniołki|gdansk|54.365331|18.627196|gdansk_aniołki
@@ -5376,7 +5376,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 52.0|3.0|4-7|secondary|0|1|1980.0|0.0|Apartment|1.0|15307.0|1|0|0| karpacka|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
 53.4|3.0|1-3|secondary|1|1|2022.0|0.0|Apartment|0.0|23034.0|1|0|0| angielska grobla|śródmieście|gdansk|54.350635|18.664603|gdansk_śródmieście
 99.47|4.0|1-3|secondary|0|0|1910.0|1.0|Apartment|1.0|12546.0|1|0|0| poczty gdańskiej|oliwa|gdansk|54.409585|18.569752|gdansk_oliwa
-30.9|1.0|4-7|secondary|1|1|1974.0|1.0|Apartment|1.0|16149.0|0|0|0| gdyńska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421443|18.576966|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+30.9|1.0|4-7|secondary|1|1|1974.0|1.0|Apartment|1.0|16149.0|0|0|0| gdyńska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421443|18.576966|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 47.7|2.0|1-3|secondary|0|0|2014.0|0.0|Apartment|0.0|17820.0|0|0|0| jacka malczewskiego|siedlce|gdansk|54.348542|18.624595|gdansk_siedlce
 30.9|1.0|4-7|secondary|0|1|1973.0|0.0|Apartment|1.0|16990.0|0|0|0| pilotów|zaspa|gdansk|54.393826|18.591988|gdansk_zaspa
 71.3|3.0|1-3|secondary|1|1|2022.0|1.0|Apartment|0.0|11203.0|1|0|0| życzliwa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
@@ -5496,7 +5496,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 44.0|2.0|4-7|secondary|1|1|2016.0|0.0|Apartment|0.0|13750.0|1|0|0| koziorożca|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 68.19|1.0|1-3|secondary|0|1|2020.0|0.0|Apartment|0.0|22500.0|0|0|0| chmielna|śródmieście|gdansk|54.346105|18.656253|gdansk_śródmieście
 39.01|2.0|1-3|secondary|1|1|2018.0|0.0|Apartment|0.0|16637.0|1|0|0| stanisława lema|piecki-migowo|gdansk|54.349019|18.590817|gdansk_piecki-migowo
-28.0|1.0|0|secondary|0|0|1964.0|0.0|Apartment|0.0|16277.0|0|0|0| aleja grunwaldzka|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.392494|18.583594|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+28.0|1.0|0|secondary|0|0|1964.0|0.0|Apartment|0.0|16277.0|0|0|0| aleja grunwaldzka|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.392494|18.583594|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 85.9|4.0|1-3|secondary|0|0|2001.0|0.0|Apartment|0.0|9197.0|0|0|0| przemyska|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
 90.0|4.0|4-7|secondary|1|1|1950.0|0.0|Apartment|1.0|13878.0|1|0|0| świętojańska|śródmieście|gdynia|54.5198415|18.538188|gdynia_śródmieście
 63.7|3.0|4-7|secondary|0|0|1990.0|0.0|Apartment|1.0|9403.0|1|0|0| kolendrowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
@@ -5524,7 +5524,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 44.5|2.0|1-3|secondary|1|0|1910.0|1.0|Apartment|1.0|16854.0|0|0|0| wajdeloty 24|wrzeszcz|gdansk|54.381669|18.61186|gdansk_wrzeszcz
 45.6|2.0|4-7|secondary|0|0|1960.0|0.0|Apartment|0.0|11895.0|0|0|0| morska|działki leśne|gdynia|54.537343|18.474899|gdynia_działki leśne
 38.0|2.0|4-7|secondary|1|1|1970.0|1.0|Apartment|1.0|17868.0|1|0|0| partyzantów|wzgórze św. maksymiliana|gdynia|54.50296|18.542419|gdynia_wzgórze św. maksymiliana
-41.0|2.0|4-7|secondary|0|0|1969.0|0.0|Apartment|1.0|14146.0|1|0|0| null|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.569108|18.395537|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+41.0|2.0|4-7|secondary|0|0|1969.0|0.0|Apartment|1.0|14146.0|1|0|0| null|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.569108|18.395537|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 46.0|2.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|14348.0|1|0|0| piastowska|przymorze|gdansk|54.416119|18.586288|gdansk_przymorze
 44.56|3.0|1-3|secondary|1|0|2016.0|1.0|Apartment|0.0|11445.0|1|0|0| stanisława dąbka|ujeścisko-łostowice|gdansk|54.320789|18.587607|gdansk_ujeścisko-łostowice
 25.0|1.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|17080.0|0|0|0| chełmońskiego|vii dwór|gdansk|54.387438|18.574708|gdansk_vii dwór
@@ -5535,7 +5535,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 36.19|2.0|0|secondary|0|0|2012.0|0.0|Apartment|0.0|14783.0|0|0|0| leszczynowa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 53.8|2.0|1-3|secondary|1|1|2014.0|1.0|Apartment|0.0|11134.0|1|0|0| potęgowska|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 31.3|2.0|1-3|secondary|0|1|2016.0|0.0|Apartment|0.0|15623.0|0|0|0| null|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
-31.0|1.0|1-3|secondary|0|1|1976.0|0.0|Apartment|1.0|16419.0|0|0|0| gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|1.0|1-3|secondary|0|1|1976.0|0.0|Apartment|1.0|16419.0|0|0|0| gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 44.4|2.0|1-3|secondary|0|0|1951.0|0.0|Apartment|1.0|11937.0|0|0|0| grunwaldzka|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
 169.88|4.0|1-3|secondary|1|0|2022.0|0.0|Apartment|0.0|15894.0|1|0|0| wolności|działki leśne|gdynia|54.51903|18.521879|gdynia_działki leśne
 46.68|2.0|1-3|secondary|0|0|2003.0|1.0|Apartment|0.0|12618.0|1|0|0| olgierda|mały kack|gdynia|54.4772|18.518346|gdynia_mały kack
@@ -5605,7 +5605,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 89.3|4.0|0|secondary|1|1|2007.0|1.0|Apartment|0.0|9518.0|0|1|0| stefana czarnieckiego|oksywie|gdynia|54.552763|18.541874|gdynia_oksywie
 64.0|4.0|4-7|secondary|0|0|1978.0|0.0|Apartment|0.0|11641.0|0|0|0| powstańców warszawskich|suchanino|gdansk|54.358662|18.624713|gdansk_suchanino
 93.4|4.0|1-3|secondary|1|1|2007.0|1.0|Apartment|0.0|11990.0|0|0|0| myśliwska|piecki-migowo|gdansk|54.350849|18.567059|gdansk_piecki-migowo
-23.15|1.0|1-3|secondary|0|0|1975.0|1.0|Apartment|1.0|19395.0|0|0|0| gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+23.15|1.0|1-3|secondary|0|0|1975.0|1.0|Apartment|1.0|19395.0|0|0|0| gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 19.0|1.0|4-7|secondary|0|0|1970.0|0.0|Apartment|0.0|17368.0|0|0|0| chłopska|przymorze|gdansk|54.411658|18.588208|gdansk_przymorze
 53.28|3.0|1-3|secondary|0|0|2023.0|0.0|Apartment|0.0|11806.0|0|0|0| władysława jagiełły 37|orunia górna - gdańsk południe|gdansk|54.300263|18.618544|gdansk_orunia górna - gdańsk południe
 50.0|2.0|1-3|secondary|0|0|1991.0|0.0|Apartment|1.0|12800.0|1|0|0| henryka hubertusa jabłońskiego|chełm|gdansk|54.334853|18.625899|gdansk_chełm
@@ -5642,7 +5642,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 5.0|2.0|1-3|secondary|1|0|2012.0|1.0|Apartment|1.0|28846.0|1|0|0| tandety|śródmieście|gdansk|54.351262|18.65549|gdansk_śródmieście
 44.6|2.0|4-7|secondary|1|1|2017.0|1.0|Apartment|1.0|14574.0|1|0|0| stanisława lema|piecki-migowo|gdansk|54.349019|18.590817|gdansk_piecki-migowo
 56.0|3.0|1-3|secondary|1|1|2021.0|1.0|Apartment|0.0|15161.0|1|0|0| opata hackiego|leszczynki|gdynia|54.536544|18.48702|gdynia_leszczynki
-42.0|2.0|1-3|secondary|0|0|1960.0|0.0|Apartment|1.0|14194.0|0|0|0| tysiąclecia|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+42.0|2.0|1-3|secondary|0|0|1960.0|0.0|Apartment|1.0|14194.0|0|0|0| tysiąclecia|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 56.0|3.0|0|secondary|0|0|1980.0|1.0|Apartment|1.0|13393.0|0|0|0| null|suchanino|gdansk|54.355805|18.607162|gdansk_suchanino
 49.5|2.0|4-7|secondary|0|0|1988.0|1.0|Apartment|1.0|11717.0|0|0|0| władysława cieszyńskiego|chełm|gdansk|54.335675|18.612522|gdansk_chełm
 43.86|2.0|1-3|secondary|1|1|2025.0|1.0|Apartment|0.0|16507.0|1|0|0| letnicka 10|letnica|gdansk|54.402565|18.649094|gdansk_letnica
@@ -5742,10 +5742,10 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 50.1|2.0|1-3|secondary|0|0|1960.0|0.0|Apartment|1.0|15150.0|1|0|0| obrońców wybrzeża|śródmieście|gdynia|54.516305|18.537858|gdynia_śródmieście
 79.5|4.0|1-3|secondary|1|0|2009.0|0.0|Apartment|1.0|12201.0|1|0|0| wawelska|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
 49.5|2.0|0|secondary|1|1|2006.0|0.0|Apartment|0.0|19980.0|0|0|0| śląska|przymorze|gdansk|54.406362|18.581337|gdansk_przymorze
-49.0|2.0|4-7|secondary|0|1|1975.0|1.0|Apartment|0.0|13265.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+49.0|2.0|4-7|secondary|0|1|1975.0|1.0|Apartment|0.0|13265.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 78.13|4.0|4-7|secondary|1|1|2021.0|0.0|Apartment|0.0|23934.0|0|0|1| sienna grobla|śródmieście|gdansk|54.356946|18.667037|gdansk_śródmieście
 32.6|1.0|1-3|secondary|1|1|2023.0|1.0|Apartment|1.0|13804.0|1|0|0| niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-60.4|3.0|4-7|secondary|0|0|1990.0|0.0|Apartment|0.0|14404.0|0|0|0| gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+60.4|3.0|4-7|secondary|0|0|1990.0|0.0|Apartment|0.0|14404.0|0|0|0| gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 35.0|1.0|1-3|secondary|0|0|1956.0|1.0|Apartment|0.0|14857.0|0|0|0| pańska|śródmieście|gdansk|54.352346|18.651306|gdansk_śródmieście
 45.93|2.0|0|secondary|1|0|2015.0|0.0|Apartment|1.0|11953.0|0|1|0| kazimierza wielkiego|orunia-św. wojciech-lipce|gdansk|54.30079|18.611999|gdansk_orunia-św. wojciech-lipce
 31.6|2.0|4-7|secondary|0|0|1964.0|0.0|Apartment|1.0|15190.0|0|0|0| piastowska|przymorze|gdansk|54.416119|18.586288|gdansk_przymorze
@@ -5778,7 +5778,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 47.21|2.0|0|secondary|0|1|2016.0|0.0|Apartment|0.0|11989.0|0|1|0| stanisława filipkowskiego|chwarzno-wiczlino|gdynia|54.485423|18.427343|gdynia_chwarzno-wiczlino
 68.06|3.0|1-3|secondary|1|1|2016.0|0.0|Apartment|0.0|12195.0|1|0|0| gen. mariusza zaruskiego|chwarzno-wiczlino|gdynia|54.492816|18.435755|gdynia_chwarzno-wiczlino
 31.3|2.0|1-3|secondary|1|0|1970.0|0.0|Apartment|0.0|19137.0|0|0|0| szczecińska|przymorze|gdansk|54.402035|18.581597|gdansk_przymorze
-31.0|1.0|4-7|secondary|0|1|1970.0|0.0|Apartment|1.0|16097.0|0|0|0| gdyńska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421443|18.576966|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|1.0|4-7|secondary|0|1|1970.0|0.0|Apartment|1.0|16097.0|0|0|0| gdyńska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421443|18.576966|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 79.78|4.0|0|secondary|1|1|2019.0|1.0|Apartment|1.0|15668.0|0|1|0| chylońska 241|cisowa|gdynia|54.54745|18.446228|gdynia_cisowa
 91.4|4.0|1-3|secondary|1|1|2018.0|0.0|Apartment|0.0|11926.0|0|0|1| felińskiego|chwarzno-wiczlino|gdynia|54.490386|18.423491|gdynia_chwarzno-wiczlino
 52.9|2.0|1-3|secondary|1|0|2023.0|0.0|Apartment|0.0|9259.0|1|0|0| zeusa|ujeścisko-łostowice|gdansk|54.304161|18.569313|gdansk_ujeścisko-łostowice
@@ -5809,7 +5809,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 56.7|3.0|1-3|secondary|0|0|1956.0|1.0|Apartment|1.0|12963.0|0|0|0| rajska|śródmieście|gdansk|54.35588|18.64708|gdansk_śródmieście
 63.7|3.0|1-3|secondary|0|1|1984.0|1.0|Apartment|1.0|7999.0|1|0|0| kaziemierza pruszkowskiego|pogórze|gdynia|54.51768|18.53892|gdynia_pogórze
 60.0|3.0|1-3|secondary|0|0|1989.0|1.0|Apartment|1.0|10000.0|1|0|0| leopolda staffa|karwiny|gdynia|54.473145|18.4982|gdynia_karwiny
-47.3|3.0|1-3|secondary|0|0|1970.0|1.0|Apartment|1.0|13700.0|1|0|0| null|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.3|3.0|1-3|secondary|0|0|1970.0|1.0|Apartment|1.0|13700.0|1|0|0| null|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 45.7|3.0|0|secondary|0|0|1975.0|1.0|Apartment|1.0|9606.0|0|0|0| bosmańska|oksywie|gdynia|54.543019|18.536056|gdynia_oksywie
 75.78|4.0|0|secondary|1|0|1992.0|0.0|Apartment|1.0|9224.0|1|0|0| paprykowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
 42.94|2.0|1-3|secondary|0|1|2018.0|0.0|Apartment|0.0|14369.0|1|0|0| jerzego świrskiego|ujeścisko-łostowice|gdansk|54.321675|18.580875|gdansk_ujeścisko-łostowice
@@ -5881,14 +5881,14 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 28.0|1.0|1-3|secondary|1|0|1970.0|0.0|Apartment|0.0|15893.0|1|0|0| aleja grunwaldzka|wrzeszcz|gdansk|54.392494|18.583594|gdansk_wrzeszcz
 30.5|1.0|4-7|secondary|0|1|1971.0|1.0|Apartment|1.0|15574.0|1|0|0| bitwy oliwskiej 16|oliwa|gdansk|54.421552|18.567001|gdansk_oliwa
 105.3|4.0|1-3|secondary|0|1|2001.0|0.0|Apartment|0.0|14008.0|1|0|0| kaszubski|śródmieście|gdynia|54.5198415|18.538188|gdynia_śródmieście
-66.7|4.0|4-7|secondary|1|1|1975.0|0.0|Apartment|1.0|12399.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|4.0|4-7|secondary|1|1|1975.0|0.0|Apartment|1.0|12399.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 55.19|3.0|4-7|secondary|0|1|1980.0|1.0|Apartment|1.0|9585.0|1|0|0| zbożowa|cisowa|gdynia|54.548571|18.443583|gdynia_cisowa
 45.0|2.0|0|secondary|0|0|2004.0|1.0|Apartment|1.0|13776.0|0|1|1| przytulna|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 54.43|3.0|0|secondary|0|1|2022.0|0.0|Apartment|0.0|13210.0|1|0|0| null|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 82.09|3.0|4-7|secondary|1|0|1995.0|0.0|Apartment|1.0|9733.0|1|0|0| myśliwska|wielki kack|gdynia|54.467664|18.492842|gdynia_wielki kack
 66.1|3.0|1-3|secondary|0|0|1900.0|1.0|Apartment|1.0|12844.0|0|0|0| do studzienki|wrzeszcz|gdansk|54.371203|18.610702|gdansk_wrzeszcz
 55.57|3.0|1-3|secondary|0|1|2017.0|0.0|Apartment|0.0|13658.0|0|0|0| gen. mariusza zaruskiego|chwarzno-wiczlino|gdynia|54.492816|18.435755|gdynia_chwarzno-wiczlino
-52.7|3.0|4-7|secondary|0|0|1970.0|0.0|Apartment|1.0|11575.0|0|0|0| szyprów|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+52.7|3.0|4-7|secondary|0|0|1970.0|0.0|Apartment|1.0|11575.0|0|0|0| szyprów|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 47.8|3.0|8+|secondary|1|1|1978.0|0.0|Apartment|1.0|13159.0|1|0|0| strażacka|witomino|gdynia|54.500821|18.512217|gdynia_witomino
 60.71|3.0|1-3|secondary|1|0|1984.0|1.0|Apartment|1.0|10871.0|1|0|0| marii konopnickiej|karwiny|gdynia|54.47102|18.499321|gdynia_karwiny
 74.67|2.0|1-3|secondary|1|0|1958.0|1.0|Apartment|1.0|11999.0|1|0|0| sobótki|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
@@ -5940,7 +5940,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 70.77|4.0|1-3|secondary|1|0|1963.0|1.0|Apartment|1.0|12647.0|1|0|0| podwale staromiejskie|śródmieście|gdansk|54.353372|18.653097|gdansk_śródmieście
 105.7|2.0|0|secondary|1|1|2008.0|0.0|Apartment|0.0|28288.0|1|0|0| okrętowa|redłowo|gdynia|54.497223|18.547861|gdynia_redłowo
 60.0|2.0|0|secondary|1|0|1912.0|0.0|Apartment|1.0|12625.0|0|1|0| turystyczna|wyspa sobieszewska|gdansk|54.344312|18.825662|gdansk_wyspa sobieszewska
-36.9|2.0|8+|secondary|0|0|1971.0|0.0|Apartment|0.0|17046.0|0|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+36.9|2.0|8+|secondary|0|0|1971.0|0.0|Apartment|0.0|17046.0|0|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 40.44|2.0|1-3|secondary|1|1|2021.0|0.0|Apartment|0.0|22750.0|1|0|0| wałowa|śródmieście|gdansk|54.3463466|18.6662024|gdansk_śródmieście
 43.25|1.0|0|secondary|1|1|2010.0|0.0|Apartment|0.0|11908.0|1|0|0| wiejska|chylonia|gdynia|54.541477|18.463162|gdynia_chylonia
 55.57|3.0|1-3|secondary|1|0|1950.0|1.0|Apartment|1.0|13478.0|0|0|0| świętojańska|śródmieście|gdynia|54.5198415|18.538188|gdynia_śródmieście
@@ -5999,13 +5999,13 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 70.0|3.0|0|secondary|0|0|2011.0|1.0|Apartment|0.0|13071.0|0|1|0| królewskie wzgórze|piecki-migowo|gdansk|54.349808|18.569542|gdansk_piecki-migowo
 76.4|3.0|0|secondary|1|0|1999.0|0.0|Apartment|0.0|17670.0|1|0|0| null|orłowo|gdynia|54.475629|18.552093|gdynia_orłowo
 55.26|2.0|1-3|secondary|0|0|1952.0|0.0|Apartment|0.0|17734.0|0|0|0| ogarna|śródmieście|gdansk|54.347865|18.651385|gdansk_śródmieście
-32.03|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|16235.0|0|0|0| jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+32.03|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|16235.0|0|0|0| jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 42.6|2.0|0|secondary|1|1|2016.0|1.0|Apartment|0.0|14061.0|0|0|0| świętokrzyska|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 75.0|3.0|1-3|secondary|1|0|2017.0|1.0|Apartment|0.0|9440.0|1|0|0| niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 61.08|3.0|1-3|secondary|1|0|1993.0|0.0|Apartment|1.0|9659.0|1|0|0| uranowa|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 52.5|3.0|1-3|secondary|1|0|1920.0|0.0|Apartment|1.0|10667.0|0|0|0| trakt świętego wojciecha|orunia-św. wojciech-lipce|gdansk|54.3128|18.62944|gdansk_orunia-św. wojciech-lipce
 46.5|2.0|1-3|secondary|0|0|1975.0|1.0|Apartment|0.0|7505.0|0|0|0| rzęsna|rudniki|gdansk|54.350141|18.705919|gdansk_rudniki
-37.0|2.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|14027.0|0|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+37.0|2.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|14027.0|0|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 90.0|3.0|1-3|secondary|1|0|2010.0|0.0|Apartment|1.0|14000.0|1|0|0| leśna|mały kack|gdynia|54.468913|18.519745|gdynia_mały kack
 50.19|2.0|1-3|secondary|1|0|1955.0|0.0|Apartment|1.0|12493.0|0|0|0| zagrodowa|siedlce|gdansk|54.350296|18.627677|gdansk_siedlce
 58.0|2.0|1-3|secondary|1|0|2022.0|0.0|Apartment|0.0|20517.0|0|0|0| wilcza|śródmieście|gdansk|54.344016|18.647801|gdansk_śródmieście
@@ -6083,7 +6083,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 85.0|3.0|1-3|secondary|1|1|2011.0|1.0|Apartment|0.0|15988.0|1|0|0| taborowa|suchanino|gdansk|54.355805|18.607162|gdansk_suchanino
 44.61|2.0|1-3|secondary|0|0|2008.0|0.0|Apartment|0.0|12979.0|1|0|0| hokejowa|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 96.6|4.0|1-3|secondary|0|0|1910.0|1.0|Apartment|1.0|9834.0|0|0|0| adama mickiewicza|wrzeszcz|gdansk|54.383315|18.621065|gdansk_wrzeszcz
-73.4|3.0|4-7|secondary|0|1|1992.0|1.0|Apartment|1.0|11540.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+73.4|3.0|4-7|secondary|0|1|1992.0|1.0|Apartment|1.0|11540.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 72.26|3.0|1-3|secondary|1|0|2022.0|1.0|Apartment|0.0|15223.0|1|0|0| aragońska|oksywie|gdynia|54.543019|18.536056|gdynia_oksywie
 76.98|3.0|1-3|secondary|1|0|2005.0|1.0|Apartment|1.0|11000.0|1|0|0| międzygwiezdna|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 61.59|3.0|1-3|secondary|1|0|2019.0|1.0|Apartment|0.0|16204.0|1|0|0| gen. stefana grota-roweckiego|siedlce|gdansk|52.161651|22.280822|gdansk_siedlce
@@ -6159,7 +6159,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 37.4|1.0|1-3|secondary|1|1|2013.0|1.0|Apartment|0.0|22701.0|0|1|0| tandeta|śródmieście|gdansk|54.351262|18.65549|gdansk_śródmieście
 89.6|4.0|1-3|secondary|1|0|2000.0|0.0|Apartment|1.0|8594.0|1|0|0| różany stok|kokoszki|gdansk|54.355548|18.51238|gdansk_kokoszki
 100.3|4.0|4-7|secondary|1|0|2024.0|0.0|Apartment|0.0|16451.0|1|0|0| starowiejska|letnica|gdansk|54.394982|18.646767|gdansk_letnica
-62.85|3.0|8+|secondary|0|1|1992.0|0.0|Apartment|1.0|12713.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+62.85|3.0|8+|secondary|0|1|1992.0|0.0|Apartment|1.0|12713.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 50.0|3.0|0|secondary|0|0|1950.0|1.0|Apartment|1.0|12980.0|0|0|0| aleja niepodległości|dolny sopot|sopot|54.442402|18.559893|sopot_dolny sopot
 92.06|3.0|0|secondary|1|0|1930.0|1.0|Apartment|1.0|15197.0|0|0|0| żołnierzy i armii wojska polskiego|kamienna góra|gdynia|54.511493|18.543343|gdynia_kamienna góra
 63.48|2.0|0|secondary|1|0|1960.0|1.0|Apartment|0.0|15753.0|0|0|0| 1 maja|górny sopot|sopot|54.443158|18.554769|sopot_górny sopot
@@ -6204,7 +6204,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 74.77|3.0|0|secondary|1|1|2018.0|0.0|Apartment|0.0|12706.0|0|1|0| strzelców|mały kack|gdynia|54.475281|18.504812|gdynia_mały kack
 101.21|3.0|1-3|secondary|0|0|1950.0|0.0|Apartment|0.0|12835.0|0|0|0| aleja niepodległości|karlikowo|sopot|54.433407|18.579679|sopot_karlikowo
 94.3|4.0|1-3|secondary|1|0|2011.0|1.0|Apartment|0.0|9427.0|1|0|0| null|osowa|gdansk|54.430298|18.470018|gdansk_osowa
-62.9|3.0|8+|secondary|0|1|1970.0|0.0|Apartment|1.0|17488.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+62.9|3.0|8+|secondary|0|1|1970.0|0.0|Apartment|1.0|17488.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 40.88|2.0|4-7|secondary|1|1|2018.0|0.0|Apartment|0.0|20670.0|1|0|0| obrońców wybrzeża|przymorze|gdansk|54.41007|18.596302|gdansk_przymorze
 67.0|3.0|1-3|secondary|1|1|2015.0|1.0|Apartment|0.0|19403.0|0|0|0| chmielna|śródmieście|gdansk|54.346105|18.656253|gdansk_śródmieście
 101.21|4.0|1-3|secondary|0|0|1950.0|0.0|Apartment|0.0|12835.0|0|0|0| aleja niepodległości|karlikowo|sopot|54.433407|18.579679|sopot_karlikowo
@@ -6537,7 +6537,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 67.66|3.0|1-3|secondary|1|1|2022.0|1.0|Apartment|0.0|24239.0|1|0|0| powstańców warszawskich|siedlce|gdansk|54.358662|18.624713|gdansk_siedlce
 47.0|2.0|4-7|secondary|0|0|1980.0|0.0|Apartment|1.0|10275.0|1|0|0| chylońska|cisowa|gdynia|54.545155|18.460712|gdynia_cisowa
 76.8|3.0|1-3|secondary|1|1|2009.0|1.0|Apartment|0.0|24219.0|1|0|0| spacerowa|orłowo|gdynia|54.482154|18.55386|gdynia_orłowo
-63.0|3.0|8+|secondary|0|1|1991.0|1.0|Apartment|1.0|12143.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+63.0|3.0|8+|secondary|0|1|1991.0|1.0|Apartment|1.0|12143.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 46.0|2.0|8+|secondary|0|1|1973.0|0.0|Apartment|1.0|11717.0|1|0|0| jagiellońska|przymorze|gdansk|54.412561|18.5956|gdansk_przymorze
 53.4|2.0|4-7|secondary|0|0|1982.0|0.0|Apartment|0.0|10655.0|0|0|0| marcina dragana|chełm|gdansk|54.341166|18.612163|gdansk_chełm
 27.17|1.0|1-3|secondary|1|0|1952.0|0.0|Apartment|1.0|21163.0|0|0|0| świętojańska|śródmieście|gdansk|54.351788|18.65498|gdansk_śródmieście
@@ -6595,7 +6595,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 33.91|1.0|0|secondary|0|1|2017.0|0.0|Apartment|0.0|12976.0|0|1|0| niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 84.47|4.0|0|secondary|0|0|1900.0|0.0|Apartment|0.0|12904.0|0|0|0| do studzienki|wrzeszcz|gdansk|54.371203|18.610702|gdansk_wrzeszcz
 50.0|2.0|4-7|secondary|1|1|2020.0|0.0|Apartment|0.0|26900.0|1|0|0| bydgoska|działki leśne|gdynia|54.509236|18.529678|gdynia_działki leśne
-3.0|1.0|4-7|secondary|0|0|1970.0|0.0|Apartment|0.0|15781.0|0|0|0| wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+3.0|1.0|4-7|secondary|0|0|1970.0|0.0|Apartment|0.0|15781.0|0|0|0| wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 34.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|16500.0|1|0|0| gryglewskiego|vii dwór|gdansk|54.387438|18.574708|gdansk_vii dwór
 43.1|2.0|1-3|secondary|1|1|2023.0|0.0|Apartment|0.0|15893.0|1|0|0| bernarda filarskiego|letnica|gdansk|54.401382|18.651679|gdansk_letnica
 95.8|3.0|1-3|secondary|0|0|1920.0|1.0|Apartment|1.0|13466.0|1|0|0| niepodległości|dolny sopot|sopot|54.4409635|18.561271|sopot_dolny sopot
@@ -6702,7 +6702,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 55.0|3.0|1-3|secondary|0|0|2023.0|0.0|Apartment|0.0|11818.0|0|0|0| władysława jagiełły|orunia-św. wojciech-lipce|gdansk|54.302663|18.615512|gdansk_orunia-św. wojciech-lipce
 47.54|2.0|1-3|secondary|1|1|2024.0|0.0|Apartment|0.0|22268.0|1|0|0| artura grottgera|oliwa|gdansk|54.403326|18.562872|gdansk_oliwa
 35.4|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|16808.0|0|0|0| 23 marca|górny sopot|sopot|54.447642|18.54261|sopot_górny sopot
-32.03|2.0|1-3|secondary|0|0|1971.0|0.0|Apartment|0.0|16547.0|0|0|0| jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+32.03|2.0|1-3|secondary|0|0|1971.0|0.0|Apartment|0.0|16547.0|0|0|0| jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 59.5|3.0|4-7|secondary|0|1|1982.0|0.0|Apartment|0.0|11429.0|0|0|0| janusza kusocińskiego|piecki-migowo|gdansk|54.356495|18.577364|gdansk_piecki-migowo
 34.8|1.0|1-3|secondary|0|0|2001.0|0.0|Apartment|0.0|13075.0|1|0|0| antoniego antczaka|orunia górna - gdańsk południe|gdansk|54.321794|18.617544|gdansk_orunia górna - gdańsk południe
 75.6|4.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|11230.0|0|0|0| kartuska|siedlce|gdansk|54.344108|18.581773|gdansk_siedlce
@@ -6794,10 +6794,10 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 61.84|3.0|4-7|secondary|0|1|2023.0|0.0|Apartment|0.0|12920.0|0|0|0| wielkopolska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 88.4|4.0|1-3|secondary|0|0|2009.0|0.0|Apartment|0.0|14593.0|0|0|0| juliusza słowackiego|wrzeszcz|gdansk|54.381217|18.59427|gdansk_wrzeszcz
 64.0|4.0|4-7|secondary|0|0|1975.0|0.0|Apartment|0.0|11625.0|0|0|0| powstańców warszawskich|suchanino|gdansk|54.358662|18.624713|gdansk_suchanino
-31.0|1.0|1-3|secondary|0|0|1974.0|0.0|Apartment|0.0|16839.0|0|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|1.0|1-3|secondary|0|0|1974.0|0.0|Apartment|0.0|16839.0|0|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 75.0|4.0|8+|secondary|0|1|1995.0|0.0|Apartment|0.0|16667.0|0|0|0| aleja jana pawła ii|zaspa|gdansk|54.398342|18.605919|gdansk_zaspa
 30.0|1.0|1-3|secondary|0|0|2018.0|0.0|Apartment|0.0|19833.0|0|0|0| wałowa|śródmieście|gdansk|54.3463466|18.6662024|gdansk_śródmieście
-47.0|3.0|1-3|secondary|0|1|1975.0|0.0|Apartment|0.0|14213.0|0|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.0|3.0|1-3|secondary|0|1|1975.0|0.0|Apartment|0.0|14213.0|0|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 93.0|4.0|1-3|secondary|0|0|2012.0|0.0|Apartment|0.0|18161.0|0|0|0| toruńska|śródmieście|gdansk|54.343247|18.651663|gdansk_śródmieście
 30.0|1.0|0|secondary|0|0|2022.0|0.0|Apartment|0.0|13300.0|0|0|0| null|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 64.3|3.0|0|secondary|0|0|2000.0|0.0|Apartment|0.0|12426.0|0|0|0| dąbrówki|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
@@ -6809,7 +6809,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 105.0|3.0|1-3|secondary|1|0|2006.0|1.0|Apartment|0.0|10238.0|1|0|1| andrzeja huenefelda|ujeścisko-łostowice|gdansk|54.320751|18.583927|gdansk_ujeścisko-łostowice
 54.87|3.0|0|secondary|0|0|1950.0|1.0|Apartment|0.0|15309.0|0|0|0| mariana seredyńskiego|śródmieście|gdansk|54.347715|18.664475|gdansk_śródmieście
 35.0|2.0|1-3|secondary|0|1|1976.0|1.0|Apartment|1.0|17571.0|1|0|0| piotra michałowskiego|vii dwór|gdansk|54.387438|18.574708|gdansk_vii dwór
-31.0|1.0|4-7|secondary|0|1|1970.0|0.0|Apartment|0.0|16097.0|1|0|0| gdyńska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421443|18.576966|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|1.0|4-7|secondary|0|1|1970.0|0.0|Apartment|0.0|16097.0|1|0|0| gdyńska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421443|18.576966|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 58.0|3.0|1-3|secondary|0|1|2023.0|0.0|Apartment|0.0|11655.0|1|0|0| wielkopolska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 41.0|2.0|1-3|secondary|0|0|1977.0|0.0|Apartment|1.0|12415.0|0|0|0| aleja grunwaldzka|oliwa|gdansk|54.392494|18.583594|gdansk_oliwa
 55.0|3.0|1-3|secondary|1|1|2021.0|0.0|Apartment|0.0|12036.0|1|0|0| null|orunia-św. wojciech-lipce|gdansk|54.321794|18.617544|gdansk_orunia-św. wojciech-lipce
@@ -6914,7 +6914,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 66.7|3.0|0|secondary|0|0|1901.0|0.0|Apartment|1.0|11979.0|0|0|0| partyzantów|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
 46.0|3.0|4-7|secondary|0|1|1962.0|0.0|Apartment|0.0|12826.0|1|0|0| wójta radtkego|śródmieście|gdynia|54.522236|18.537335|gdynia_śródmieście
 92.03|4.0|0|secondary|1|0|2007.0|0.0|Apartment|0.0|15973.0|0|1|0| św. huberta|piecki-migowo|gdansk|54.345558|18.584161|gdansk_piecki-migowo
-48.0|2.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|13104.0|0|0|0| wejhera 7|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.212378|18.550174|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+48.0|2.0|4-7|secondary|0|0|1980.0|0.0|Apartment|0.0|13104.0|0|0|0| wejhera 7|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.212378|18.550174|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 3.0|2.0|0|secondary|1|0|1910.0|0.0|Apartment|0.0|24219.0|0|0|0| brzozowa|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
 95.16|4.0|4-7|secondary|0|0|1990.0|0.0|Apartment|1.0|13651.0|0|0|0| null|siedlce|gdansk|52.412165|22.009869|gdansk_siedlce
 31.0|1.0|4-7|secondary|0|1|1977.0|1.0|Apartment|1.0|12548.0|0|0|0| jacka malczewskiego|siedlce|gdansk|54.348542|18.624595|gdansk_siedlce
@@ -7120,7 +7120,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 63.94|3.0|1-3|secondary|0|0|2015.0|0.0|Apartment|0.0|10150.0|0|0|0| andrzeja grubby|ujeścisko-łostowice|gdansk|54.30615|18.594718|gdansk_ujeścisko-łostowice
 10.0|5.0|4-7|secondary|0|0|1994.0|0.0|Apartment|1.0|8039.0|1|0|0| pólnicy|jasień|gdansk|54.342075|18.563478|gdansk_jasień
 5.0|2.0|4-7|secondary|1|1|2022.0|1.0|Apartment|0.0|12981.0|1|0|0| niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-75.0|3.0|1-3|secondary|1|0|2017.0|0.0|Apartment|0.0|30000.0|1|0|0| wypoczynkowa|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+75.0|3.0|1-3|secondary|1|0|2017.0|0.0|Apartment|0.0|30000.0|1|0|0| wypoczynkowa|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 49.17|2.0|1-3|secondary|1|1|2018.0|1.0|Apartment|0.0|11369.0|1|0|0| leszczynowa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 17.0|1.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|21765.0|0|0|0| obrońców wybrzeża|przymorze|gdansk|54.41007|18.596302|gdansk_przymorze
 60.86|3.0|0|secondary|1|0|1961.0|0.0|Apartment|1.0|20523.0|1|0|0| dr ludwika zamenhofa|górny sopot|sopot|54.439694|18.559179|sopot_górny sopot
@@ -7152,7 +7152,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 35.44|2.0|4-7|secondary|1|1|2024.0|0.0|Apartment|0.0|12698.0|1|0|0| pastelowa|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 44.48|2.0|1-3|secondary|0|0|2001.0|1.0|Apartment|1.0|11691.0|1|0|0| różany stok|kokoszki|gdansk|54.355548|18.51238|gdansk_kokoszki
 43.0|2.0|1-3|secondary|0|0|1975.0|0.0|Apartment|0.0|14419.0|1|0|0| kołobrzeska|przymorze|gdansk|54.404177|18.592665|gdansk_przymorze
-3.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|17781.0|0|0|0| jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+3.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|17781.0|0|0|0| jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 84.66|4.0|1-3|secondary|0|1|2026.0|1.0|Apartment|0.0|9990.0|1|0|0| rdestowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
 74.55|4.0|1-3|secondary|0|1|2025.0|1.0|Apartment|0.0|9903.0|1|0|0| rdestowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
 57.31|3.0|0|secondary|0|1|2026.0|1.0|Apartment|0.0|10734.0|1|0|0| rdestowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
@@ -7192,7 +7192,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 50.55|2.0|1-3|secondary|0|0|2006.0|1.0|Apartment|0.0|11850.0|0|0|0| olimpijska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 35.44|2.0|4-7|secondary|1|0|2024.0|1.0|Apartment|0.0|12698.0|1|0|0| pastelowa 18|ujeścisko-łostowice|gdansk|54.310731|18.60905|gdansk_ujeścisko-łostowice
 68.0|3.0|1-3|secondary|0|0|2001.0|1.0|Apartment|1.0|11750.0|1|0|0| piotrkowska 21|ujeścisko-łostowice|gdansk|54.329362|18.585317|gdansk_ujeścisko-łostowice
-43.0|2.0|1-3|secondary|0|0|1980.0|0.0|Apartment|0.0|16860.0|0|0|0| szyprów|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+43.0|2.0|1-3|secondary|0|0|1980.0|0.0|Apartment|0.0|16860.0|0|0|0| szyprów|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 52.83|3.0|1-3|secondary|1|1|2023.0|0.0|Apartment|1.0|16657.0|1|0|0| góralska|mały kack|gdynia|54.483536|18.530812|gdynia_mały kack
 49.5|2.0|4-7|secondary|0|0|1970.0|1.0|Apartment|1.0|11717.0|1|0|0| matuszewskiego|piecki-migowo|gdansk|54.34902|18.6518|gdansk_piecki-migowo
 66.0|3.0|4-7|secondary|0|1|1986.0|0.0|Apartment|1.0|9968.0|1|0|0| chałubińskiego 35|chełm|gdansk|54.339585|18.619228|gdansk_chełm
@@ -7274,7 +7274,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 56.0|3.0|1-3|secondary|1|1|1977.0|1.0|Apartment|0.0|16054.0|1|0|0| karlikowska|karlikowo|sopot|54.436814|18.574051|sopot_karlikowo
 50.16|2.0|4-7|secondary|1|1|2020.0|0.0|Apartment|0.0|12998.0|0|0|0| niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 50.0|3.0|1-3|secondary|0|1|1965.0|0.0|Apartment|1.0|12498.0|1|0|0| gen. bora-komorowskiego|przymorze|gdansk|54.409345|18.581165|gdansk_przymorze
-42.5|2.0|1-3|secondary|0|0|1964.0|1.0|Apartment|1.0|16235.0|0|0|0| tysiąclecia|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+42.5|2.0|1-3|secondary|0|0|1964.0|1.0|Apartment|1.0|16235.0|0|0|0| tysiąclecia|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 43.0|2.0|1-3|secondary|0|0|1975.0|1.0|Apartment|1.0|14419.0|1|0|0| kołobrzeska|przymorze|gdansk|54.404177|18.592665|gdansk_przymorze
 35.8|2.0|1-3|secondary|0|0|1967.0|0.0|Apartment|1.0|16173.0|1|0|0| stefana batorego|wrzeszcz|gdansk|54.377177|18.600532|gdansk_wrzeszcz
 42.6|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|19014.0|1|0|0| 3 maja|karlikowo|sopot|54.436258|18.568621|sopot_karlikowo
@@ -7282,7 +7282,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 63.0|3.0|1-3|secondary|1|1|2022.0|1.0|Apartment|0.0|19048.0|1|0|0| powstańców warszawskich|siedlce|gdansk|54.358662|18.624713|gdansk_siedlce
 62.79|3.0|1-3|secondary|1|1|2021.0|1.0|Apartment|1.0|11945.0|1|1|0| kazimierza wielkiego|orunia-św. wojciech-lipce|gdansk|54.30079|18.611999|gdansk_orunia-św. wojciech-lipce
 65.0|3.0|1-3|secondary|1|1|2017.0|0.0|Apartment|0.0|24000.0|0|0|0| bolesława chrobrego|wrzeszcz|gdansk|54.391209|18.617053|gdansk_wrzeszcz
-31.85|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|16609.0|0|0|0| jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.85|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|16609.0|0|0|0| jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 47.0|2.0|0|secondary|1|0|2008.0|1.0|Apartment|0.0|12553.0|0|0|0| międzygwiezdna|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 29.0|2.0|0|secondary|0|0|1960.0|0.0|Apartment|1.0|13690.0|0|0|0| morska|grabówek|gdynia|54.537343|18.474899|gdynia_grabówek
 57.87|4.0|1-3|secondary|1|1|2024.0|1.0|Apartment|0.0|9483.0|1|0|0| borkowska|orunia-św. wojciech-lipce|gdansk|54.15552|18.652661|gdansk_orunia-św. wojciech-lipce
@@ -7297,7 +7297,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 53.0|3.0|1-3|secondary|0|0|1978.0|1.0|Apartment|1.0|10321.0|1|0|0| płk. stanisława dąbka|oksywie|gdynia|54.557178|18.517|gdynia_oksywie
 64.1|3.0|1-3|secondary|1|1|2010.0|1.0|Apartment|0.0|10605.0|1|0|0| janowska|cisowa|gdynia|54.550178|18.438679|gdynia_cisowa
 48.0|2.0|4-7|secondary|0|0|2024.0|0.0|Apartment|0.0|14583.0|0|0|0| wielkopolska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
-23.45|1.0|1-3|secondary|0|0|1980.0|1.0|Apartment|1.0|22175.0|0|0|0| gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+23.45|1.0|1-3|secondary|0|0|1980.0|1.0|Apartment|1.0|22175.0|0|0|0| gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 66.8|2.0|0|secondary|1|1|2011.0|1.0|Apartment|0.0|17590.0|0|1|0| null|redłowo|gdynia|50.622272|5.573084|gdynia_redłowo
 52.45|2.0|1-3|secondary|1|1|2023.0|0.0|Apartment|0.0|18970.0|1|0|0| myśliwska|piecki-migowo|gdansk|54.350849|18.567059|gdansk_piecki-migowo
 186.9|5.0|1-3|secondary|0|0|2022.0|1.0|House|0.0|14708.0|1|0|1| szarych szeregów|redłowo|gdynia|54.492573|18.54671|gdynia_redłowo
@@ -7382,7 +7382,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 45.0|2.0|4-7|secondary|1|1|2019.0|1.0|Apartment|0.0|18444.0|1|0|0| długa grobla|śródmieście|gdansk|54.347715|18.664475|gdansk_śródmieście
 71.4|4.0|1-3|secondary|0|0|2005.0|0.0|Apartment|0.0|9664.0|1|0|0| bergiela|ujeścisko-łostowice|gdansk|54.318534|18.582584|gdansk_ujeścisko-łostowice
 60.0|3.0|1-3|secondary|0|0|1988.0|1.0|Apartment|1.0|10483.0|1|0|0| null|pogórze|gdynia|54.51768|18.53892|gdynia_pogórze
-66.7|5.0|4-7|secondary|0|1|1970.0|0.0|Apartment|0.0|14393.0|1|0|0| gospody|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|5.0|4-7|secondary|0|1|1970.0|0.0|Apartment|0.0|14393.0|1|0|0| gospody|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 94.73|4.0|1-3|secondary|1|1|2023.0|0.0|Apartment|0.0|12984.0|1|0|0| życzliwa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 40.39|2.0|0|secondary|1|1|2024.0|1.0|Apartment|0.0|10358.0|0|1|0| borkowska|orunia-św. wojciech-lipce|gdansk|54.15552|18.652661|gdansk_orunia-św. wojciech-lipce
 73.87|4.0|1-3|secondary|1|1|2024.0|1.0|Apartment|0.0|8937.0|1|0|0| borkowska|orunia-św. wojciech-lipce|gdansk|54.15552|18.652661|gdansk_orunia-św. wojciech-lipce
@@ -7575,7 +7575,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 47.7|2.0|1-3|secondary|0|0|1910.0|1.0|Apartment|1.0|6268.0|0|0|0| trakt świętego wojciecha|orunia-św. wojciech-lipce|gdansk|54.3128|18.62944|gdansk_orunia-św. wojciech-lipce
 43.04|2.0|1-3|secondary|1|0|2018.0|0.0|Apartment|0.0|13243.0|1|0|0| stężycka|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 50.16|2.0|1-3|secondary|1|0|2024.0|0.0|Apartment|0.0|21000.0|1|0|0| null|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
-3.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|17781.0|0|0|0| jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+3.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|17781.0|0|0|0| jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 53.4|2.0|1-3|secondary|0|0|1985.0|0.0|Apartment|1.0|11199.0|0|0|0| witolda grabowskiego|chełm|gdansk|54.338834|18.623525|gdansk_chełm
 47.9|2.0|0|secondary|1|1|2023.0|1.0|Apartment|0.0|11983.0|0|1|0| nowatorów|kokoszki|gdansk|54.354766|18.491171|gdansk_kokoszki
 40.81|2.0|1-3|secondary|1|1|2024.0|0.0|Apartment|0.0|21060.0|1|0|0| null|oliwa|gdansk|54.408789|18.556846|gdansk_oliwa
@@ -7594,7 +7594,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 77.0|3.0|4-7|secondary|1|1|2024.0|1.0|Apartment|1.0|18523.0|1|1|0| małokacka|witomino|gdynia|54.498498|18.509001|gdynia_witomino
 24.5|1.0|1-3|secondary|0|0|1940.0|0.0|Apartment|0.0|23265.0|0|0|0| ogarna|śródmieście|gdansk|54.347865|18.651385|gdansk_śródmieście
 73.0|3.0|1-3|secondary|1|0|1928.0|1.0|Apartment|1.0|14800.0|1|0|0| powstańców warszawskich|aniołki|gdansk|54.358662|18.624713|gdansk_aniołki
-47.0|3.0|1-3|secondary|0|1|1975.0|1.0|Apartment|1.0|14213.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+47.0|3.0|1-3|secondary|0|1|1975.0|1.0|Apartment|1.0|14213.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 55.9|3.0|1-3|secondary|0|0|1980.0|0.0|Apartment|0.0|10000.0|0|0|0| null|pogórze|gdynia|54.51768|18.53892|gdynia_pogórze
 65.05|3.0|1-3|secondary|1|1|2019.0|1.0|Apartment|1.0|17999.0|0|1|1| grudziądzka|wrzeszcz|gdansk|54.381786|18.606236|gdansk_wrzeszcz
 6.0|2.0|0|secondary|0|0|1930.0|1.0|Apartment|1.0|8548.0|0|0|0| grabowa|orunia-św. wojciech-lipce|gdansk|54.320717|18.636293|gdansk_orunia-św. wojciech-lipce
@@ -7620,7 +7620,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 63.08|3.0|1-3|secondary|1|0|1999.0|0.0|Apartment|0.0|9495.0|1|0|0| orfeusza|osowa|gdansk|54.430298|18.470018|gdansk_osowa
 69.69|3.0|0|secondary|1|1|2014.0|1.0|Apartment|0.0|12556.0|0|0|0| gen. mariusza zaruskiego|chwarzno-wiczlino|gdynia|54.492816|18.435755|gdynia_chwarzno-wiczlino
 100.1|4.0|1-3|secondary|0|0|2001.0|0.0|Apartment|1.0|10889.0|1|0|0| księcia józefa poniatowskiego|aniołki|gdansk|54.357339|18.630828|gdansk_aniołki
-3.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|17781.0|0|0|0| wejhera 11|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.210471|18.547084|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+3.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|1.0|17781.0|0|0|0| wejhera 11|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.210471|18.547084|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 139.5|5.0|0|secondary|1|0|1990.0|1.0|Apartment|1.0|8530.0|0|1|0| legionów|wzgórze św. maksymiliana|gdynia|54.50296|18.542419|gdynia_wzgórze św. maksymiliana
 55.0|3.0|1-3|secondary|1|1|2011.0|0.0|Apartment|1.0|11089.0|0|0|0| jabłoniowa|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 46.0|2.0|1-3|secondary|1|1|2010.0|1.0|Apartment|1.0|14457.0|1|0|0| myśliwskie wzgórze|piecki-migowo|gdansk|54.348106|18.562501|gdansk_piecki-migowo
@@ -7641,7 +7641,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 79.3|4.0|0|secondary|1|0|1998.0|1.0|Apartment|1.0|10706.0|1|0|0| elewów|matarnia|gdansk|54.379762|18.505167|gdansk_matarnia
 52.0|3.0|1-3|secondary|1|0|1974.0|0.0|Apartment|1.0|17146.0|1|0|0| artura grottgera|oliwa|gdansk|54.403326|18.562872|gdansk_oliwa
 76.0|4.0|1-3|secondary|0|0|2013.0|0.0|Apartment|0.0|19079.0|0|0|0| jana pawła 3d|zaspa|gdansk|54.174883|18.693597|gdansk_zaspa
-66.7|4.0|4-7|secondary|0|1|1975.0|1.0|Apartment|1.0|12399.0|1|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+66.7|4.0|4-7|secondary|0|1|1975.0|1.0|Apartment|1.0|12399.0|1|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 27.0|1.0|0|secondary|0|0|1970.0|0.0|Apartment|0.0|16667.0|0|0|0| jagiellońska|przymorze|gdansk|54.412561|18.5956|gdansk_przymorze
 45.0|2.0|1-3|secondary|0|0|1970.0|0.0|Apartment|0.0|15533.0|0|0|0| jagiellońska|przymorze|gdansk|54.412561|18.5956|gdansk_przymorze
 74.0|3.0|4-7|secondary|1|0|1920.0|0.0|Apartment|1.0|12938.0|1|0|0| angielska grobla|śródmieście|gdansk|54.347715|18.664475|gdansk_śródmieście
@@ -7660,7 +7660,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 60.0|3.0|1-3|secondary|1|1|2011.0|1.0|Apartment|0.0|10817.0|1|0|0| hokejowa|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 47.27|3.0|0|secondary|1|1|2015.0|1.0|Apartment|0.0|12037.0|0|1|1| null|jasień|gdansk|54.340089|18.560014|gdansk_jasień
 76.0|3.0|1-3|secondary|1|0|1955.0|0.0|Apartment|1.0|12237.0|1|0|0| romana dmowskiego|wrzeszcz|gdansk|54.380626|18.606911|gdansk_wrzeszcz
-68.3|4.0|4-7|secondary|1|1|1975.0|1.0|Apartment|1.0|12108.0|0|0|0| pomorska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+68.3|4.0|4-7|secondary|1|1|1975.0|1.0|Apartment|1.0|12108.0|0|0|0| pomorska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 64.0|4.0|4-7|secondary|0|0|1975.0|0.0|Apartment|1.0|11716.0|1|0|0| powstańców warszawskich|suchanino|gdansk|54.358662|18.624713|gdansk_suchanino
 47.0|3.0|0|secondary|1|0|1970.0|0.0|Apartment|0.0|11043.0|0|0|0| tamka|stogi|gdansk|54.358656|18.712526|gdansk_stogi
 7.0|3.0|1-3|secondary|1|0|2010.0|1.0|Apartment|0.0|10829.0|1|0|0| staniszewskiego 10|chwarzno-wiczlino|gdynia|54.502532|18.457566|gdynia_chwarzno-wiczlino
@@ -7700,7 +7700,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 58.0|3.0|1-3|secondary|0|0|1997.0|1.0|Apartment|1.0|14224.0|1|0|0| cygańska góra|suchanino|gdansk|54.356447|18.619148|gdansk_suchanino
 31.0|2.0|1-3|secondary|1|0|2013.0|0.0|Apartment|0.0|14000.0|1|0|0| kazimierza leskiego|jasień|gdansk|54.323929|18.559804|gdansk_jasień
 38.04|2.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|14984.0|1|0|0| bydgoska|przymorze|gdansk|54.410373|18.58253|gdansk_przymorze
-31.0|2.0|1-3|secondary|0|1|1975.0|1.0|Apartment|1.0|18935.0|1|0|0| sztormowa|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|2.0|1-3|secondary|0|1|1975.0|1.0|Apartment|1.0|18935.0|1|0|0| sztormowa|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 55.0|2.0|0|secondary|1|0|2014.0|1.0|Apartment|0.0|24545.0|0|1|0| józefa kraszewskiego|kamienny potok|sopot|54.45407|18.550078|sopot_kamienny potok
 64.0|3.0|1-3|secondary|0|0|2015.0|0.0|Apartment|0.0|10141.0|1|0|0| andrzeja grubby|ujeścisko-łostowice|gdansk|54.30615|18.594718|gdansk_ujeścisko-łostowice
 81.8|3.0|1-3|secondary|0|0|2015.0|0.0|Apartment|0.0|10990.0|0|0|0| myśliwska|wielki kack|gdynia|54.467664|18.492842|gdynia_wielki kack
@@ -7766,7 +7766,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 55.4|2.0|0|secondary|0|1|1992.0|0.0|Apartment|0.0|8285.0|0|0|0| żeliwna|pogórze|gdynia|54.557454|18.494974|gdynia_pogórze
 63.0|3.0|1-3|secondary|0|0|1979.0|0.0|Apartment|0.0|7936.0|0|0|0| płk. stanisława dąbka|obłuże|gdynia|54.557178|18.517|gdynia_obłuże
 60.0|3.0|4-7|secondary|0|1|1978.0|0.0|Apartment|0.0|8317.0|0|0|0| płk. stanisława dąbka|obłuże|gdynia|54.557178|18.517|gdynia_obłuże
-31.0|1.0|8+|secondary|0|0|1970.0|0.0|Apartment|0.0|16129.0|0|0|0| null|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+31.0|1.0|8+|secondary|0|0|1970.0|0.0|Apartment|0.0|16129.0|0|0|0| null|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 43.7|2.0|1-3|secondary|0|0|2020.0|0.0|Apartment|0.0|13707.0|0|0|0| myśliwska|piecki-migowo|gdansk|54.350849|18.567059|gdansk_piecki-migowo
 164.69|3.0|1-3|secondary|1|0|1910.0|0.0|Apartment|1.0|16091.0|0|1|0| gen. władysława andersa|górny sopot|sopot|54.440668|18.55594|sopot_górny sopot
 75.6|3.0|4-7|secondary|1|1|2010.0|1.0|Apartment|0.0|19828.0|1|0|0| strzelców|mały kack|gdynia|54.475281|18.504812|gdynia_mały kack
@@ -7780,7 +7780,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 51.83|2.0|4-7|secondary|0|0|2024.0|0.0|Apartment|0.0|16593.0|1|0|0| starowiejska|letnica|gdansk|54.394982|18.646767|gdansk_letnica
 75.9|3.0|1-3|secondary|1|0|1950.0|1.0|Apartment|1.0|8419.0|0|0|0| bosmańska 26|oksywie|gdynia|54.54969|18.540923|gdynia_oksywie
 100.0|4.0|1-3|secondary|1|0|1963.0|1.0|Apartment|1.0|12500.0|1|1|0| lucjana cylkowskiego|redłowo|gdynia|54.492253|18.549061|gdynia_redłowo
-77.0|4.0|4-7|secondary|1|1|2010.0|1.0|Apartment|1.0|22000.0|1|0|0| null|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+77.0|4.0|4-7|secondary|1|1|2010.0|1.0|Apartment|1.0|22000.0|1|0|0| null|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 74.0|4.0|1-3|secondary|0|0|1993.0|0.0|Apartment|0.0|18905.0|0|0|0| jana pawła ii 25a|zaspa|gdansk|54.177024|18.68997|gdansk_zaspa
 48.0|3.0|1-3|secondary|1|0|2023.0|0.0|Apartment|0.0|16021.0|1|0|0| stefana okrzei|grabówek|gdynia|54.530584|18.500136|gdynia_grabówek
 53.46|3.0|1-3|secondary|1|1|2016.0|0.0|Apartment|0.0|12626.0|1|0|0| niepołomicka|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
@@ -7921,7 +7921,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 85.0|5.0|1-3|secondary|1|0|1929.0|0.0|Apartment|1.0|7988.0|0|0|0| chylońska|cisowa|gdynia|54.545155|18.460712|gdynia_cisowa
 56.3|3.0|1-3|secondary|1|1|2019.0|0.0|Apartment|0.0|15075.0|1|0|0| szczecińska|działki leśne|gdynia|54.517586|18.518323|gdynia_działki leśne
 106.0|5.0|1-3|secondary|0|0|2003.0|1.0|Apartment|1.0|9198.0|0|0|0| antygony|osowa|gdansk|54.430298|18.470018|gdansk_osowa
-4.0|2.0|1-3|secondary|1|1|2017.0|0.0|Apartment|0.0|30000.0|0|0|0| jelitkowska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+4.0|2.0|1-3|secondary|1|1|2017.0|0.0|Apartment|0.0|30000.0|0|0|0| jelitkowska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 59.6|3.0|0|secondary|1|0|1936.0|0.0|Apartment|1.0|12915.0|0|0|0| wolności|działki leśne|gdynia|54.51903|18.521879|gdynia_działki leśne
 48.3|2.0|1-3|secondary|1|1|2020.0|0.0|Apartment|0.0|25859.0|1|0|0| bydgoska|działki leśne|gdynia|54.509236|18.529678|gdynia_działki leśne
 74.17|3.0|0|secondary|0|0|2023.0|0.0|Apartment|0.0|19800.0|0|1|0| cygańska góra|suchanino|gdansk|54.356447|18.619148|gdansk_suchanino
@@ -8002,7 +8002,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 67.0|2.0|1-3|secondary|0|0|1938.0|0.0|Apartment|1.0|10849.0|0|0|0| warszawska|działki leśne|gdynia|54.515929|18.53106|gdynia_działki leśne
 43.91|2.0|0|secondary|1|1|2023.0|0.0|Apartment|0.0|13414.0|0|0|0| wieżycka|ujeścisko-łostowice|gdansk|54.318534|18.582584|gdansk_ujeścisko-łostowice
 71.36|3.0|1-3|secondary|1|0|1999.0|1.0|Apartment|1.0|11897.0|1|0|0| damroki|wielki kack|gdynia|54.467664|18.492842|gdynia_wielki kack
-4.0|2.0|1-3|secondary|0|0|1974.0|1.0|Apartment|1.0|16404.0|0|0|0| jakuba wejhera|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.421773|18.5858|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+4.0|2.0|1-3|secondary|0|0|1974.0|1.0|Apartment|1.0|16404.0|0|0|0| jakuba wejhera|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.421773|18.5858|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 69.83|4.0|4-7|secondary|0|1|1963.0|1.0|Apartment|1.0|10726.0|1|0|0| witomińska|działki leśne|gdynia|54.512713|18.532152|gdynia_działki leśne
 60.4|3.0|1-3|secondary|1|0|1960.0|1.0|Apartment|1.0|11921.0|1|0|0| podolska|działki leśne|gdynia|54.516098|18.533411|gdynia_działki leśne
 62.7|3.0|0|secondary|1|0|2003.0|0.0|Apartment|1.0|10300.0|0|0|0| słonecznikowa|dąbrowa|gdynia|54.472104|18.47019|gdynia_dąbrowa
@@ -8211,7 +8211,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 66.55|3.0|0|secondary|0|0|1991.0|0.0|Apartment|1.0|9391.0|1|0|0| sojowa|dąbrowa|gdynia|54.473863|18.465794|gdynia_dąbrowa
 41.0|2.0|4-7|secondary|1|0|2022.0|0.0|Apartment|0.0|11683.0|1|0|0| wielkopolska|ujeścisko-łostowice|gdansk|54.31911|18.591801|gdansk_ujeścisko-łostowice
 97.13|4.0|1-3|secondary|0|0|1900.0|0.0|Apartment|0.0|23669.0|0|0|0| bolesława chrobrego|dolny sopot|sopot|54.441099|18.57116|sopot_dolny sopot
-58.0|2.0|1-3|secondary|1|1|2009.0|0.0|Apartment|0.0|28448.0|0|0|0| wypoczynkowa|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+58.0|2.0|1-3|secondary|1|1|2009.0|0.0|Apartment|0.0|28448.0|0|0|0| wypoczynkowa|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 77.0|3.0|1-3|secondary|0|0|1907.0|1.0|Apartment|1.0|16870.0|0|0|0| sukiennicza|śródmieście|gdansk|54.354389|18.658314|gdansk_śródmieście
 53.1|3.0|1-3|secondary|1|0|1981.0|0.0|Apartment|1.0|10829.0|0|0|0| rydzowa|pustki cisowskie-demptowo|gdynia|54.543602|18.458985|gdynia_pustki cisowskie-demptowo
 140.0|5.0|0|secondary|1|0|2019.0|1.0|House|0.0|13921.0|0|0|0| null|oksywie|gdynia|54.543019|18.536056|gdynia_oksywie
@@ -8220,7 +8220,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 67.0|3.0|1-3|secondary|0|0|2023.0|0.0|Apartment|0.0|8567.0|0|0|0| unruga|obłuże|gdynia|54.552186|18.508622|gdynia_obłuże
 58.0|2.0|4-7|secondary|0|1|2022.0|0.0|Apartment|0.0|12569.0|0|0|0| przemyska|ujeścisko-łostowice|gdansk|54.333711|18.591182|gdansk_ujeścisko-łostowice
 53.0|2.0|0|secondary|0|0|1930.0|0.0|Apartment|1.0|10000.0|0|1|0| grabowa|orunia-św. wojciech-lipce|gdansk|54.320717|18.636293|gdansk_orunia-św. wojciech-lipce
-52.6|3.0|4-7|secondary|0|0|1973.0|0.0|Apartment|1.0|13308.0|1|0|0| szyprów|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.420659|18.571526|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+52.6|3.0|4-7|secondary|0|0|1973.0|0.0|Apartment|1.0|13308.0|1|0|0| szyprów|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.420659|18.571526|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 88.61|4.0|1-3|secondary|1|1|2023.0|1.0|Apartment|0.0|9920.0|1|0|0| ptasia|chełm|gdansk|54.332499|18.621618|gdansk_chełm
 66.0|3.0|1-3|secondary|1|0|2019.0|0.0|Apartment|0.0|25000.0|0|0|0| null|śródmieście|gdansk|54.347715|18.664475|gdansk_śródmieście
 79.0|3.0|1-3|secondary|1|0|1932.0|1.0|Apartment|1.0|13924.0|0|0|0| wyczółkowskiego leona|siedlce|gdansk|54.261532|18.667519|gdansk_siedlce
@@ -8403,7 +8403,7 @@ area|number_of_rooms|floor|type_of_market|parking|elevator|year_of_creation|inte
 88.4|4.0|1-3|secondary|0|0|2009.0|0.0|Apartment|0.0|14129.0|1|0|0| juliusza słowackiego|matarnia|gdansk|54.386336|18.437805|gdansk_matarnia
 76.94|3.0|0|secondary|0|0|1920.0|1.0|Apartment|0.0|18196.0|0|0|0| floriana ceynowy|dolny sopot|sopot|54.448002|18.564929|sopot_dolny sopot
 50.0|3.0|1-3|secondary|0|1|1970.0|0.0|Apartment|1.0|15400.0|1|0|0| śląska|przymorze|gdansk|54.406362|18.581337|gdansk_przymorze
-74.53|2.0|1-3|secondary|1|1|2006.0|1.0|Apartment|0.0|29518.0|1|0|0| piastowska|żabianka-wejhera-jelitkowo-tysiąclecia|gdansk|54.424062|18.596767|gdansk_żabianka-wejhera-jelitkowo-tysiąclecia
+74.53|2.0|1-3|secondary|1|1|2006.0|1.0|Apartment|0.0|29518.0|1|0|0| piastowska|Żabianka-Wejhera-Jelitkowo-Tysiąclecia|gdansk|54.424062|18.596767|gdansk_Żabianka-Wejhera-Jelitkowo-Tysiąclecia
 56.0|3.0|1-3|secondary|0|1|2023.0|1.0|Apartment|0.0|11477.0|1|0|0| szczęśliwa|jasień|gdansk|54.353876|18.526168|gdansk_jasień
 83.0|5.0|0|secondary|1|0|1968.0|0.0|Apartment|0.0|9626.0|0|1|0| szarych szeregów|redłowo|gdynia|54.492573|18.54671|gdynia_redłowo
 70.5|3.0|0|secondary|1|0|2006.0|1.0|Apartment|0.0|12624.0|0|0|1| janiny porazińskiej|karwiny|gdynia|54.474587|18.481476|gdynia_karwiny
