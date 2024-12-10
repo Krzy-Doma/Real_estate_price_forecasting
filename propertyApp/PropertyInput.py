@@ -4,8 +4,6 @@ from pydantic import BaseModel
 class PropertyInput(BaseModel):
     model: str
     area: float
-    district: str
-    city: str
     number_of_rooms: int
     floor: str
     type_of_market: str
@@ -18,3 +16,5 @@ class PropertyInput(BaseModel):
     balcony: bool
     garden: bool
     terrace: bool
+    district: str
+    city: str

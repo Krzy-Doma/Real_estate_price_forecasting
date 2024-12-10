@@ -1,5 +1,5 @@
 class Property:
-    def __init__(self, area=50.0, number_of_rooms=2, floor='0', city='default', district='default', year_of_creation=2000,
+    def __init__(self, area=50.0, number_of_rooms=2, floor=1, city='default', district='default', year_of_creation=2000,
                  type_of_market="primary", type_of_building="Apartment", parking=False, internet=False, basement=False, balcony=False,
                  garden=False, terrace=False, elevator=False):
         self.area = area
@@ -21,3 +21,6 @@ class Property:
     def update(self, **kwargs):
         for key, value in kwargs.items():
             setattr(self, key, value)
+
+    def __str__(self):
+        return f"{self.city} - {self.district} - {self.type_of_building}  - {self.type_of_market} - {self.area} sqm"
