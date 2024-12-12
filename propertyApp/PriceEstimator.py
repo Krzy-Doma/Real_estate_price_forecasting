@@ -7,7 +7,7 @@ from PropertyInput import PropertyInput
 
 class PriceEstimator:
 
-    data = pd.read_csv('cleaned_district_changed.csv', sep='|')
+    data = pd.read_csv('models/cleaned_district_changed.csv', sep='|')
     city_districts = data['city_district'].value_counts().to_dict()
 
     def __init__(self):
