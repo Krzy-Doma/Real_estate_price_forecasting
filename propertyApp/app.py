@@ -18,14 +18,14 @@ class App:
         self.model = None
         self.prediction = None
         self.metrics = {
-            "Random Forest": pd.read_csv('models/random_forest_metrics.csv', delimiter='|'),
-            "Gradient Boosting": pd.read_csv('models/gradient_boost_metrics.csv', delimiter='|'),
-            "XGB": pd.read_csv('models/XGB_metrics.csv', delimiter='|')
+            "Random Forest": pd.read_csv('metrics/random_forest_metrics.csv', delimiter='|'),
+            "Gradient Boosting": pd.read_csv('metrics/gradient_boost_metrics.csv', delimiter='|'),
+            "XGB": pd.read_csv('metrics/XGB_metrics.csv', delimiter='|')
         }
         self.feature = {
-            "Random Forest": Image.open('models/random_forest_feature_importance.png'),
-            "Gradient Boosting": Image.open('models/gradient_boost_importance.png'),
-            "XGB": Image.open('models/XGB_importance.png')
+            "Random Forest": Image.open('metrics/random_forest_feature_importance.png'),
+            "Gradient Boosting": Image.open('metrics/gradient_boost_importance.png'),
+            "XGB": Image.open('metrics/XGB_importance.png')
         }
 
     def select_city_model(self):
@@ -123,56 +123,7 @@ class App:
 
             st.dataframe(transpose,  use_container_width=True)
 
-            st.image(self.feature[self.model], use_column_width=True)
-
-            # st.subheader("Model Evaluation Metrics")
-            # st.table(metrics)
-            # st.subheader("Model Evaluation Metrics")
-            # st.markdown("""
-            #     <style>
-            #     .metrics-table {
-            #         width: 100%;
-            #         border-collapse: collapse;
-            #         margin: 10px 0;
-            #         font-size: 18px;
-            #         text-align: left;
-            #     }
-            #     .metrics-table th, .metrics-table td {
-            #         border: 1px solid #ddd;
-            #         padding: 8px;
-            #     }
-            #     .metrics-table th {
-            #         background-color: #f4f4f4;
-            #         font-weight: bold;
-            #     }
-            #     </style>
-            #     <table class="metrics-table">
-            #         <thead>
-            #             <tr>
-            #                 <th>Metric</th>
-            #                 <th>Value</th>
-            #             </tr>
-            #         </thead>
-            #         <tbody>
-            #             <tr>
-            #                 <td>RMSE</td>
-            #                 <td>2274.926</td>
-            #             </tr>
-            #             <tr>
-            #                 <td>R²</td>
-            #                 <td>0.778</td>
-            #             </tr>
-            #             <tr>
-            #                 <td>MAE</td>
-            #                 <td>1411.982</td>
-            #             </tr>
-            #             <tr>
-            #                 <td>MAPE</td>
-            #                 <td>0.099</td>
-            #             </tr>
-            #         </tbody>
-            #     </table>
-            #     """, unsafe_allow_html=True)
+            st.image(self.feature[self.model])
 
     def run(self):
         render_title()
