@@ -1,6 +1,6 @@
 DISTRICTS = {
     'gdynia': [
-        "Dąbrowa", "Chwarzno-Wiczlino", "Mały kack", "Chylonia", "Redłowo", "Wielki kack", "Działki leśne", "Wzgórze św. Maksymiliana",
+        "Dąbrowa", "Chwarzno-Wiczlino", "Mały Kack", "Chylonia", "Redłowo", "Wielki Kack", "Działki leśne", "Wzgórze św. Maksymiliana",
         "Orłowo", "Oksywie", "Witomino", "Grabówek", "Pogórze", "Cisowa", "Leszczynki",
         "Kamienna góra", "Pustki cisowskie-Demptowo", "Babie doły", "Śródmieście"
     ],

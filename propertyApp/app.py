@@ -8,7 +8,6 @@ from PIL import Image
 def render_title():
     st.title("Property price predictions")
 
-
 class App:
     API_URL = "http://127.0.0.1:8000"
 
@@ -39,14 +38,11 @@ class App:
 
             district = st.selectbox("District", options=DISTRICTS[self.city])
             area = st.number_input("Area [sqm]", value=self.property.area, min_value=0.0, step=0.5)
-            number_of_rooms = st.slider("Number of rooms", min_value=1, max_value=10,
-                                        value=self.property.number_of_rooms)
+            number_of_rooms = st.slider("Number of rooms", min_value=1, max_value=10, value=self.property.number_of_rooms)
             floor = st.radio("Floor", options=['0', '1-3', '4-7', '8+'])
-            year_of_creation = st.number_input("Year of creation", value=self.property.year_of_creation, min_value=1900,
-                                               max_value=2024, step=10)
+            year_of_creation = st.number_input("Year of creation", value=self.property.year_of_creation, min_value=1900, max_value=2024, step=10)
             type_of_market = st.selectbox("Type of market", ["primary", "secondary"])
             type_of_building = st.selectbox("Type of building", ["Apartment", "House"])
-            # Boolean attributes
             parking = st.checkbox("Parking", value=self.property.parking)
             internet = st.checkbox("Internet", value=self.property.internet)
             basement = st.checkbox("Basement", value=self.property.basement)
@@ -115,14 +111,10 @@ class App:
         if self.prediction:
             st.title(f"Estimated price of the property: {self.prediction['estimated_price']:.2f} PLN")
             st.subheader(f"Price per meter square: {(self.prediction['estimated_price']/self.property.area) :.2f} PLN")
-
             st.write("Model metrics:")
-
             transpose = self.metrics[self.model].T
             transpose.iloc[1] = transpose.iloc[1].apply(pd.to_numeric).round(4)
-
             st.dataframe(transpose,  use_container_width=True)
-
             st.image(self.feature[self.model])
 
     def run(self):
